@@ -1,16 +1,16 @@
 [
 	{
         "id": "1",
-		"navn": "Emma",
-		"tid": "16:00 - 17:00",
-		"dato": "3. juli",
-		"hvor": "Familiegata",
-		"font": "Montserrat-Bold",
-		"tekstFarge": "familieGataText",
-		"bakgrunnsFarge": "familieGata",
-		"imageName": "Emma",
-		"headerName": "Emma-Header",
-		"beskrivelse": "Dette må fylles ut"
+	"navn": "Emma",
+	"tid": "16:00 - 17:00",
+	"dato": "3. juli",
+	"hvor": "Familiegata",
+	"font": "Montserrat-Bold",
+	"tekstFarge": "familieGataText",
+	"bakgrunnsFarge": "familieGata",
+	"imageName": "Emma",
+	"headerName": "Emma-Header",
+	"beskrivelse": "Dette må fylles ut"
 	},
     {
         "id": "2",
