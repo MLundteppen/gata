@@ -5,10 +5,10 @@
     "tid": "16:00 - 17:00",
     "dato": "3. juli",
     "hvor": "Familiegata"
-    "font": "Montserrat-Bold"
-    "tekstFarge": "familieGataTekst"
-    "bakgrunnsFarge": "familieGata"
-    "bildeUrl": "https://imgur.com/a/9QQqtzT"
+    "font": "Montserrat-Bold",
+    "tekstFarge": "familieGataTekst",
+    "bakgrunnsFarge": "familieGata",
+    "bildeUrl": "https://imgur.com/a/9QQqtzT",
     "headerUrl": "",
     "beskrivelse": "Dette må fylles ut"
   }
