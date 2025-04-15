@@ -1,6 +1,6 @@
 [
 	{
-        "id": "1",
+        "id": 1,
 	"navn": "Emma",
 	"tid": "16:00 - 17:00",
 	"dato": "3. juli",
@@ -8,12 +8,12 @@
 	"font": "Montserrat-Bold",
 	"tekstFarge": "familieGataText",
 	"bakgrunnsFarge": "familieGata",
-	"imageName": "Emma",
-	"headerName": "Emma-Header",
+	"imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb5647acf27e0419e9454_Emma.png",
+	"headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb571e6660395373816f1_Emma-HeaderV2.png",
 	"beskrivelse": "Dette må fylles ut"
 	},
     {
-        "id": "2",
+        "id": 2,
         "navn": "Hkeem",
         "tid": "18:00 - 19:00",
         "dato": "3. juli",
@@ -21,13 +21,13 @@
         "font": "Montserrat-Bold",
         "tekstFarge": "familieGataText",
         "bakgrunnsFarge": "familieGata",
-        "imageName": "Hkeem",
-        "headerName": "Hkeem-Header",
+        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb565e666039537380c07_Hkeem.png",
+        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb572f81654c2923314a3_Hkeem-Header.jpg",
         "beskrivelse": "Dette må fylles ut"
         
     },
     {
-        "id": "3",
+        "id": 3,
         "navn": "Synne Vo",
         "tid": "20:00 - 21:00",
         "dato": "3. juli",
@@ -35,12 +35,12 @@
         "font": "Montserrat-Bold",
         "tekstFarge": "familieGataText",
         "bakgrunnsFarge": "familieGata",
-        "imageName": "Synne-Vo",
-        "headerName": "Synne-Vo-Header",
+        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb565ca40ddf654399099_Synne-Vo.png",
+        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb5722ddf4fd37e35fa89_Synne-Vo-Header.jpg",
         "beskrivelse": "Dette må fylles ut"
     },
     {
-        "id": "4",
+        "id": 4,
         "navn": "Hanne Boel",
         "tid": "22:00 - 23:00",
         "dato": "3. juli",
@@ -48,12 +48,12 @@
         "font": "Montserrat-Bold",
         "tekstFarge": "torsdagTeltetText",
         "bakgrunnsFarge": "torsdagTeltet",
-        "imageName": "Hanne-Boel",
-        "headerName": "Hanne-Boel-Header",
+        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb5695ebd55061ec9af7b_Hanne-Boel.png",
+        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb571654d10d798a40ec6_Hanne-Boel-Header.jpg",
         "beskrivelse": "Dette må fylles ut"
     },
     {
-        "id": "5",
+        "id": 5,
         "navn": "OnklP",
         "tid": "16:00 - 17:00",
         "dato": "4. juli",
@@ -61,12 +61,12 @@
         "font": "Montserrat-Bold",
         "tekstFarge": ".white",
         "bakgrunnsFarge": "darkGradiant",
-        "imageName": "OnklP",
-        "headerName": "OnklP-Header",
+        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb564c311ab9871623c25_Onkl-P.png",
+        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb5717d33708673ca116f_OnklP-Header.jpg",
         "beskrivelse": "Dette må fylles ut"
     },
     {
-        "id": "6",
+        "id": 6,
         "navn": "Hkeem",
         "tid": "18:00 - 19:00",
         "dato": "4. juli",
@@ -74,12 +74,12 @@
         "font": "Montserrat-Bold",
         "tekstFarge": ".white",
         "bakgrunnsFarge": "darkGradiant",
-        "imageName": "Hkeem",
-        "headerName": "Hkeem-Header",
+        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb565e666039537380c07_Hkeem.png",
+        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb572f81654c2923314a3_Hkeem-Header.jpg",
         "beskrivelse": "Dette må fylles ut"
     },
     {
-        "id": "7",
+        "id": 7,
         "navn": "DiDerre",
         "tid": "19:00 - 20:00",
         "dato": "4. juli",
@@ -87,12 +87,12 @@
         "font": "Montserrat-Bold",
         "tekstFarge": ".white",
         "bakgrunnsFarge": "darkGradiant",
-        "imageName": "Di-Derre",
-        "headerName": "Di-Derre-Header",
+        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb564b80d21f91b5d497f_Di-Derre.png",
+        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb571ca6c3e8a92137f30_Di-Derre-Header.jpg",
         "beskrivelse": "Dette må fylles ut"
     },
     {
-        "id": "8",
+        "id": 8,
         "navn": "Violet Road",
         "tid": "20:00 - 21:00",
         "dato": "4. juli",
@@ -100,12 +100,12 @@
         "font": "Montserrat-Bold",
         "tekstFarge": ".white",
         "bakgrunnsFarge": "darkGradiant",
-        "imageName": "Violet-Road",
-        "headerName": "Violet-Road-Header",
+        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb565edfbbebf81dbe4ec_Violet-Road.png",
+        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb572fce49d55d22fcd8b_Violet-Road-Header.jpg",
         "beskrivelse": "Dette må fylles ut"
     },
     {
-        "id": "9",
+        "id": 9,
         "navn": "Synne-Vo",
         "tid": "21:00 - 22:00",
         "dato": "4. juli",
@@ -113,12 +113,12 @@
         "font": "Montserrat-Bold",
         "tekstFarge": ".white",
         "bakgrunnsFarge": "darkGradiant",
-        "imageName": "Synne-Vo",
-        "headerName": "Synne-Vo-Header",
+        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb565ca40ddf654399099_Synne-Vo.png",
+        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb5722ddf4fd37e35fa89_Synne-Vo-Header.jpg",
         "beskrivelse": "Dette må fylles ut"
     },
     {
-        "id": "10",
+        "id": 10,
         "navn": "deLillos",
         "tid": "16:00 - 17:00",
         "dato": "5. juli",
@@ -126,12 +126,12 @@
         "font": "Montserrat-Bold",
         "tekstFarge": ".white",
         "bakgrunnsFarge": "darkGradiant",
-        "imageName": "deLillos",
-        "headerName": "deLillos-Header",
+        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb563b9e7a00dd4e9b0aa_DeLillos.png",
+        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb5719280a9655823e3ff_DeLillos-Header.jpg",
         "beskrivelse": "Dette må fylles ut"
     },
     {
-        "id": "11",
+        "id": 11,
         "navn": "DJ Sash",
         "tid": "17:00 - 18:00",
         "dato": "5. juli",
@@ -139,12 +139,12 @@
         "font": "Montserrat-Bold",
         "tekstFarge": ".white",
         "bakgrunnsFarge": "darkGradiant",
-        "imageName": "Sash",
-        "headerName": "Sash-Header",
+        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb56493ca1794945d9ed1_Sash.png",
+        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb57104367a8299b6f9d6_Sash-Header.jpg",
         "beskrivelse": "Dette må fylles ut"
     },
     {
-        "id": "12",
+        "id": 12,
         "navn": "Ruben",
         "tid": "18:00 - 19:00",
         "dato": "5. juli",
@@ -152,12 +152,12 @@
         "font": "Montserrat-Bold",
         "tekstFarge": ".white",
         "bakgrunnsFarge": "darkGradiant",
-        "imageName": "Ruben",
-        "headerName": "Ruben-Header",
+        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb56592d4f2f9063acd3d_Ruben.png",
+        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb572799bc2fc95bbff87_Ruben-Header.jpg",
         "beskrivelse": "Dette må fylles ut"
     },
     {
-        "id": "13",
+        "id": 13,
         "navn": "Too Far Gone",
         "tid": "19:00 - 20:00",
         "dato": "5. juli",
@@ -165,12 +165,12 @@
         "font": "Montserrat-Bold",
         "tekstFarge": ".white",
         "bakgrunnsFarge": "darkGradiant",
-        "imageName": "TooFarGone",
-        "headerName": "TooFarGone-Header",
+        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb5648b253ede93b79ea0_TooFarGone.png",
+        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb57110720278ad35f300_TooFarGone-Header.jpg",
         "beskrivelse": "Dette må fylles ut"
     },
     {
-        "id": "14",
+        "id": 14,
         "navn": "Vanishing Vegas",
         "tid": "20:00 - 21:00",
         "dato": "5. juli",
@@ -178,10 +178,10 @@
         "font": "Montserrat-Bold",
         "tekstFarge": ".white",
         "bakgrunnsFarge": "darkGradiant",
-        "imageName": "Vanishing-Vegas",
-        "headerName": "Vanishing-Vegas-Header",
+        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb564ffb25e8ec0bab4c0_VanishingVegas.png",
+        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb571202f818bb4a00d81_VanishingVegas-Header.jpg",
         "beskrivelse": "Dette må fylles ut"
-    },
+    }
     
 ]
 	
