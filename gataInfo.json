@@ -1,17 +1,18 @@
 [
-	{
+    {
         "id": 1,
-	"navn": "Emma",
-	"tid": "16:00 - 17:00",
-	"dato": "3. juli",
-	"hvor": "Familiegata",
-	"font": "Montserrat-Bold",
-	"tekstFarge": "familieGataText",
-	"bakgrunnsFarge": "familieGata",
-	"imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb5647acf27e0419e9454_Emma.png",
-	"headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb571e6660395373816f1_Emma-HeaderV2.png",
-	"beskrivelse": "Dette må fylles ut"
-	},
+        "navn": "Emma",
+        "tid": "16:00 - 17:00",
+        "dato": "3. juli",
+        "hvor": "Familiegata",
+        "font": "Montserrat-Bold",
+        "tekstFarge": "familieGataText",
+        "bakgrunnsFarge": "familieGata",
+        "startTid": "2025-07-03T16:00",
+        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801217acae0f9f93ff851b0_Emma.jpg",
+        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/680154904cf0cd5d2bef266e_Header-Emma.png",
+        "beskrivelse": "Dette må fylles ut"
+    },
     {
         "id": 2,
         "navn": "Hkeem",
@@ -21,8 +22,9 @@
         "font": "Montserrat-Bold",
         "tekstFarge": "familieGataText",
         "bakgrunnsFarge": "familieGata",
-        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb565e666039537380c07_Hkeem.png",
-        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb572f81654c2923314a3_Hkeem-Header.jpg",
+        "startTid": "2025-07-03T18:00",
+        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801217a9bff30a4cfadf679_Hkeem.jpg",
+        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/68015490737a1d834a9d8e0e_Header-HKEEM.png",
         "beskrivelse": "Dette må fylles ut"
         
     },
@@ -35,8 +37,9 @@
         "font": "Montserrat-Bold",
         "tekstFarge": "familieGataText",
         "bakgrunnsFarge": "familieGata",
-        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb565ca40ddf654399099_Synne-Vo.png",
-        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb5722ddf4fd37e35fa89_Synne-Vo-Header.jpg",
+        "startTid": "2025-07-03T20:00",
+        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801217aa26fa085dfedace1_Synne-Vo.jpg",
+        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801549135d1994de8d9d41b_Header-Synne-Vo.png",
         "beskrivelse": "Dette må fylles ut"
     },
     {
@@ -48,8 +51,9 @@
         "font": "Montserrat-Bold",
         "tekstFarge": "torsdagTeltetText",
         "bakgrunnsFarge": "torsdagTeltet",
-        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb5695ebd55061ec9af7b_Hanne-Boel.png",
-        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb571654d10d798a40ec6_Hanne-Boel-Header.jpg",
+        "startTid": "2025-07-03T22:00",
+        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801217a293046fd00f470b0_Hanne-Boel.jpg",
+        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801549085f9d4f685951baf_Header-Hanne-Boel.png",
         "beskrivelse": "Dette må fylles ut"
     },
     {
@@ -61,8 +65,9 @@
         "font": "Montserrat-Bold",
         "tekstFarge": ".white",
         "bakgrunnsFarge": "darkGradiant",
-        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb564c311ab9871623c25_Onkl-P.png",
-        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb5717d33708673ca116f_OnklP-Header.jpg",
+        "startTid": "2025-07-04T16:00",
+        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801217a31f2f0388d3d4590_Onkl-P.jpg",
+        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/680154900c01ccdc06e06dca_Header-OnklP.png",
         "beskrivelse": "Dette må fylles ut"
     },
     {
@@ -74,8 +79,9 @@
         "font": "Montserrat-Bold",
         "tekstFarge": ".white",
         "bakgrunnsFarge": "darkGradiant",
-        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb565e666039537380c07_Hkeem.png",
-        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb572f81654c2923314a3_Hkeem-Header.jpg",
+        "startTid": "2025-07-04T18:00",
+        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801217a9bff30a4cfadf679_Hkeem.jpg",
+        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/68015490737a1d834a9d8e0e_Header-HKEEM.png",
         "beskrivelse": "Dette må fylles ut"
     },
     {
@@ -87,8 +93,9 @@
         "font": "Montserrat-Bold",
         "tekstFarge": ".white",
         "bakgrunnsFarge": "darkGradiant",
-        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb564b80d21f91b5d497f_Di-Derre.png",
-        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb571ca6c3e8a92137f30_Di-Derre-Header.jpg",
+        "startTid": "2025-07-04T19:00",
+        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801217ae6265dc1aa840b01_Di-Derre.jpg",
+        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/68015490e950a220177dfd30_Header-Diderre.png",
         "beskrivelse": "Dette må fylles ut"
     },
     {
@@ -100,8 +107,9 @@
         "font": "Montserrat-Bold",
         "tekstFarge": ".white",
         "bakgrunnsFarge": "darkGradiant",
-        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb565edfbbebf81dbe4ec_Violet-Road.png",
-        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb572fce49d55d22fcd8b_Violet-Road-Header.jpg",
+        "startTid": "2025-07-04T20:00",
+        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801217adf6e512b904a4cb5_Violet-Road.jpg",
+        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/68015491179cb73dc14c453b_Header-Violet-Road.png",
         "beskrivelse": "Dette må fylles ut"
     },
     {
@@ -113,8 +121,9 @@
         "font": "Montserrat-Bold",
         "tekstFarge": ".white",
         "bakgrunnsFarge": "darkGradiant",
-        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb565ca40ddf654399099_Synne-Vo.png",
-        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb5722ddf4fd37e35fa89_Synne-Vo-Header.jpg",
+        "startTid": "2025-07-04T21:00",
+        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801217aa26fa085dfedace1_Synne-Vo.jpg",
+        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801549135d1994de8d9d41b_Header-Synne-Vo.png",
         "beskrivelse": "Dette må fylles ut"
     },
     {
@@ -126,21 +135,23 @@
         "font": "Montserrat-Bold",
         "tekstFarge": ".white",
         "bakgrunnsFarge": "darkGradiant",
-        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb563b9e7a00dd4e9b0aa_DeLillos.png",
-        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb5719280a9655823e3ff_DeLillos-Header.jpg",
+        "startTid": "2025-07-05T16:00",
+        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801217ae94701919162338e_DeLillos.jpg",
+        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/68015490512736c43b80df9f_Header-deLillos.png",
         "beskrivelse": "Dette må fylles ut"
     },
     {
         "id": 11,
-        "navn": "DJ Sash",
+        "navn": "DJ Sash!",
         "tid": "17:00 - 18:00",
         "dato": "5. juli",
         "hvor": "Lørdag",
         "font": "Montserrat-Bold",
         "tekstFarge": ".white",
         "bakgrunnsFarge": "darkGradiant",
-        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb56493ca1794945d9ed1_Sash.png",
-        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb57104367a8299b6f9d6_Sash-Header.jpg",
+        "startTid": "2025-07-05T17:00",
+        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801217abacfafa4c864e7c1_Sash.jpg",
+        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/68015490986a9d0cfa8524a1_Header-Dj-Sash.png",
         "beskrivelse": "Dette må fylles ut"
     },
     {
@@ -152,8 +163,9 @@
         "font": "Montserrat-Bold",
         "tekstFarge": ".white",
         "bakgrunnsFarge": "darkGradiant",
-        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb56592d4f2f9063acd3d_Ruben.png",
-        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb572799bc2fc95bbff87_Ruben-Header.jpg",
+        "startTid": "2025-07-05T18:00",
+        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801217abc5af9f7e4081b57_Ruben.jpg",
+        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/68015491bea944036eb33f9f_Header-Ruben.png",
         "beskrivelse": "Dette må fylles ut"
     },
     {
@@ -165,8 +177,9 @@
         "font": "Montserrat-Bold",
         "tekstFarge": ".white",
         "bakgrunnsFarge": "darkGradiant",
-        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb5648b253ede93b79ea0_TooFarGone.png",
-        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb57110720278ad35f300_TooFarGone-Header.jpg",
+        "startTid": "2025-07-05T19:00",
+        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801217a727672331c7f700b_TooFarGone.jpg",
+        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/680154902c4f5f6a8df2c14d_Header-TooFarGone.png",
         "beskrivelse": "Dette må fylles ut"
     },
     {
@@ -178,10 +191,11 @@
         "font": "Montserrat-Bold",
         "tekstFarge": ".white",
         "bakgrunnsFarge": "darkGradiant",
-        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb564ffb25e8ec0bab4c0_VanishingVegas.png",
-        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/67feb571202f818bb4a00d81_VanishingVegas-Header.jpg",
+        "startTid": "2025-07-05T20:00",
+        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801217afe483f0a8eec224f_VanishingVegas.jpg",
+        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/680154918435a5959c2a0011_Header-Vanishing-Vegas.png",
         "beskrivelse": "Dette må fylles ut"
     }
     
 ]
-	
+    
