@@ -1,20 +1,5 @@
 [
     {
-        "id": 1,
-        "navn": "Emma",
-        "tid": "16:00 - 17:00",
-        "dato": "3. juli",
-        "hvor": "Familiegata",
-        "font": "Brick",
-        "fontSize": 30,
-        "tekstFarge": "familieGataText",
-        "bakgrunnsFarge": "familieGata",
-        "startTid": "2025-07-03T16:00",
-        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801217acae0f9f93ff851b0_Emma.jpg",
-        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/680154904cf0cd5d2bef266e_Header-Emma.png",
-        "beskrivelse": "Dette må fylles ut"
-    },
-    {
         "id": 2,
         "navn": "Hkeem",
         "tid": "18:00 - 19:00",
