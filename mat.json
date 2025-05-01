@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "navn": "Pizza",
+    "innhold": "Ost & skinke",
+    "pris": "150,-",
+    "hvem": "Orlando",
+    "utsolgt": false
+  },
+  {
+    "id": 2,
+    "navn": "Burger",
+    "innhold": "150g",
+    "pris": "120,-",
+    "hvem": "Orlando",
+    "utsolgt": false
+  },
+  {
+    "id": 3,
+    "navn": "Sushi",
+    "innhold": "Nogiri",
+    "pris": "110,-",
+    "hvem": "Orlando",
+    "utsolgt": false
+  },
+  {
+    "id": 3,
+    "navn": "Sushi",
+    "innhold": "Nogiri",
+    "pris": "110,-",
+    "hvem": "Orlando",
+    "utsolgt": false
+  },
+  {
+    "id": 4,
+    "navn": "Kebab",
+    "innhold": "I pita",
+    "pris": "120,-",
+    "hvem": "Orlando",
+    "utsolgt": false
+  },
+  {
+    "id": 5,
+    "navn": "Grillpølse i brød",
+    "innhold": " ",
+    "pris": "69,-",
+    "hvem": "Esso",
+    "utsolgt": false
+  },
+  {
+    "id": 6,
+    "navn": "Wienerpølse i brød",
+    "innhold": " ",
+    "pris": "69,-",
+    "hvem": "Esso",
+    "utsolgt": false
+  },
+  {
+    "id": 7,
+    "navn": "Sprøstekt løk",
+    "innhold": "Tilbehør",
+    "pris": "10,-",
+    "hvem": "Esso",
+    "utsolgt": false
+  },
+  {
+    "id": 8,
+    "navn": "Rekesalat",
+    "innhold": "Tilbehør",
+    "pris": "11,-",
+    "hvem": "Esso",
+    "utsolgt": false
+  },
+  {
+    "id": 9,
+    "navn": "Hamburger",
+    "innhold": "100g",
+    "pris": "110,-",
+    "hvem": "Esso",
+    "utsolgt": false
+  },
+  {
+    "id": 10,
+    "navn": "Hamburger",
+    "innhold": "150g",
+    "pris": "130,-",
+    "hvem": "Esso",
+    "utsolgt": false
+  },
+  {
+    "id": 11,
+    "navn": "Ost",
+    "innhold": "Tilbehør til burger",
+    "pris": "9,-",
+    "hvem": "Esso",
+    "utsolgt": false
+  },
+  {
+    "id": 12,
+    "navn": "Bacon",
+    "innhold": "Tilbehør til burger",
+    "pris": "11,-",
+    "hvem": "Esso",
+    "utsolgt": false
+  }
+]
