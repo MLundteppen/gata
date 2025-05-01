@@ -5,7 +5,8 @@
     "innhold": "Ost & skinke",
     "pris": "150,-",
     "hvem": "Orlando",
-    "utsolgt": false
+    "utsolgt": false,
+    "bakgrunnsFarge": ".darkGradient"
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "innhold": "150g",
     "pris": "120,-",
     "hvem": "Orlando",
-    "utsolgt": false
+    "utsolgt": false,
+    "bakgrunnsFarge": ".darkGradient"
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "innhold": "Nogiri",
     "pris": "110,-",
     "hvem": "Orlando",
-    "utsolgt": false
+    "utsolgt": false,
+    "bakgrunnsFarge": ".darkGradient"
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "innhold": "Nogiri",
     "pris": "110,-",
     "hvem": "Orlando",
-    "utsolgt": false
+    "utsolgt": false,
+    "bakgrunnsFarge": ".darkGradient"
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "innhold": "I pita",
     "pris": "120,-",
     "hvem": "Orlando",
-    "utsolgt": false
+    "utsolgt": false,
+    "bakgrunnsFarge": ".darkGradient"
   },
   {
     "id": 6,
@@ -45,7 +50,8 @@
     "innhold": " ",
     "pris": "69,-",
     "hvem": "Esso",
-    "utsolgt": false
+    "utsolgt": false,
+    "bakgrunnsFarge": ".darkGradient"
   },
   {
     "id": 7,
@@ -53,7 +59,8 @@
     "innhold": " ",
     "pris": "69,-",
     "hvem": "Esso",
-    "utsolgt": false
+    "utsolgt": false,
+    "bakgrunnsFarge": ".darkGradient"
   },
   {
     "id": 8,
@@ -61,7 +68,8 @@
     "innhold": "Tilbehør",
     "pris": "10,-",
     "hvem": "Esso",
-    "utsolgt": false
+    "utsolgt": false,
+    "bakgrunnsFarge": ".darkGradient"
   },
   {
     "id": 9,
@@ -69,7 +77,8 @@
     "innhold": "Tilbehør",
     "pris": "11,-",
     "hvem": "Esso",
-    "utsolgt": false
+    "utsolgt": false,
+    "bakgrunnsFarge": ".darkGradient"
   },
   {
     "id": 10,
@@ -77,7 +86,8 @@
     "innhold": "100g",
     "pris": "110,-",
     "hvem": "Esso",
-    "utsolgt": false
+    "utsolgt": false,
+    "bakgrunnsFarge": ".darkGradient"
   },
   {
     "id": 11,
@@ -85,7 +95,8 @@
     "innhold": "150g",
     "pris": "130,-",
     "hvem": "Esso",
-    "utsolgt": false
+    "utsolgt": false,
+    "bakgrunnsFarge": ".darkGradient"
   },
   {
     "id": 12,
@@ -93,7 +104,8 @@
     "innhold": "Tilbehør til burger",
     "pris": "9,-",
     "hvem": "Esso",
-    "utsolgt": false
+    "utsolgt": false,
+    "bakgrunnsFarge": ".darkGradient"
   },
   {
     "id": 13,
@@ -101,6 +113,7 @@
     "innhold": "Tilbehør til burger",
     "pris": "11,-",
     "hvem": "Esso",
-    "utsolgt": false
+    "utsolgt": false,
+    "bakgrunnsFarge": ".darkGradient"
   }
 ]
