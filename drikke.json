@@ -4,7 +4,7 @@
     "drikke": "Nordlands pils 0,5",
     "innhold": "4,7%",
     "pris": "100,-",
-    "utsolgt": true,
+    "utsolgt": false,
     "hvor": "Baren",
     "bakgrunnsFarge": "darkGradiant"
   },
