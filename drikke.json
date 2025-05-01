@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "drikke": "Nordlands pils 0,5",
+    "innehold": "4,7%",
+    "pris": "100,-",
+    "utsolgt": false,
+    "hvor": "Baren",
+    "bakgrunnsFarge": "darkGradiant"
+  },
+  {
+    "id": 2,
+    "drikke": "Hvitvin",
+    "innehold": "10%",
+    "pris": "120,-",
+    "utsolgt": false,
+    "hvor": "Baren",
+    "bakgrunnsFarge": "darkGradiant"
+  },
+  {
+    "id": 3,
+    "drikke": "Vodka battery",
+    "innehold": "20+%",
+    "pris": "100,-",
+    "utsolgt": false,
+    "hvor": "VIP teltet",
+    "bakgrunnsFarge": "darkGradiant"
+  }
+]
