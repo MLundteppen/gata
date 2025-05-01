@@ -27,15 +27,6 @@
     "bakgrunnsFarge": "darkGradiant"
   },
   {
-    "id": 4,
-    "navn": "Sushi",
-    "innhold": "Nogiri",
-    "pris": "110,-",
-    "hvem": "Orlando",
-    "utsolgt": false,
-    "bakgrunnsFarge": "darkGradiant"
-  },
-  {
     "id": 5,
     "navn": "Kebab",
     "innhold": "I pita",
