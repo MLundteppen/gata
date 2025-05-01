@@ -24,7 +24,7 @@
     "utsolgt": false
   },
   {
-    "id": 3,
+    "id": 4,
     "navn": "Sushi",
     "innhold": "Nogiri",
     "pris": "110,-",
@@ -32,7 +32,7 @@
     "utsolgt": false
   },
   {
-    "id": 4,
+    "id": 5,
     "navn": "Kebab",
     "innhold": "I pita",
     "pris": "120,-",
@@ -40,7 +40,7 @@
     "utsolgt": false
   },
   {
-    "id": 5,
+    "id": 6,
     "navn": "Grillpølse i brød",
     "innhold": " ",
     "pris": "69,-",
@@ -48,7 +48,7 @@
     "utsolgt": false
   },
   {
-    "id": 6,
+    "id": 7,
     "navn": "Wienerpølse i brød",
     "innhold": " ",
     "pris": "69,-",
@@ -56,7 +56,7 @@
     "utsolgt": false
   },
   {
-    "id": 7,
+    "id": 8,
     "navn": "Sprøstekt løk",
     "innhold": "Tilbehør",
     "pris": "10,-",
@@ -64,7 +64,7 @@
     "utsolgt": false
   },
   {
-    "id": 8,
+    "id": 9,
     "navn": "Rekesalat",
     "innhold": "Tilbehør",
     "pris": "11,-",
@@ -72,7 +72,7 @@
     "utsolgt": false
   },
   {
-    "id": 9,
+    "id": 10,
     "navn": "Hamburger",
     "innhold": "100g",
     "pris": "110,-",
@@ -80,7 +80,7 @@
     "utsolgt": false
   },
   {
-    "id": 10,
+    "id": 11,
     "navn": "Hamburger",
     "innhold": "150g",
     "pris": "130,-",
@@ -88,7 +88,7 @@
     "utsolgt": false
   },
   {
-    "id": 11,
+    "id": 12,
     "navn": "Ost",
     "innhold": "Tilbehør til burger",
     "pris": "9,-",
@@ -96,7 +96,7 @@
     "utsolgt": false
   },
   {
-    "id": 12,
+    "id": 13,
     "navn": "Bacon",
     "innhold": "Tilbehør til burger",
     "pris": "11,-",
