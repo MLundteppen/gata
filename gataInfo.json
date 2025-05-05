@@ -13,7 +13,7 @@
         "stoppTid": "2025-07-03T18:00:00+02:00",
         "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801217acae0f9f93ff851b0_Emma.jpg",
         "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/680154904cf0cd5d2bef266e_Header-Emma.png",
-        "beskrivelse": "Dette må fylles ut"
+        "beskrivelse": "Emma Gunnarsen er en talentfull norsk popsanger som har vokst opp i rampelyset, inspirert av sine musikalske søsken. Med en kraftfull stemme og en naturlig scenetilstedeværelse har hun raskt gjort seg bemerket på den norske musikkscenen. Hun lager fengende poplåter som appellerer til både unge og voksne, og leverer alltid energiske og sjarmerende opptredener."
     },
     {
         "id": 2,
@@ -29,7 +29,7 @@
         "stoppTid": "2025-07-03T19:00:00+02:00",
         "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801217a9bff30a4cfadf679_Hkeem.jpg",
         "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/68015490737a1d834a9d8e0e_Header-HKEEM.png",
-        "beskrivelse": "Dette må fylles ut"
+        "beskrivelse": "Hkeem, med røtter fra Gambia, har etablert seg som en av Norges mest profilerte rappere og sangere. Han slo gjennom med den enorme hiten «Fy faen» i 2017, som ble en landeplage og ga ham Spellemannsprisen. Hkeem kombinerer fengende beats med melodiske hooks og tekster som ofte omhandler kjærlighet, drømmer og livet i Oslo. Han er kjent for sin karisma og evne til å blande ulike musikalske stiler."
         
     },
     {
@@ -46,7 +46,7 @@
         "stoppTid": "2025-07-03T21:00:00+02:00",
         "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801217aa26fa085dfedace1_Synne-Vo.jpg",
         "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801549135d1994de8d9d41b_Header-Synne-Vo.png",
-        "beskrivelse": "Dette må fylles ut"
+        "beskrivelse": "Synne Vo er en spennende artist fra Norge som kombinerer moderne pop med elementer av nordisk folkemusikk. Med sine ærlige og nærværende tekster tar hun lytterne med på en personlig reise gjennom kjærlighet, oppvekst og identitet. Hun har blitt omtalt som en av de mest lovende nye stemmene i norsk pop, og hennes varme vokal og melodiske låter har allerede vunnet mange hjerter."
     },
     {
         "id": 4,
@@ -62,7 +62,7 @@
         "stoppTid": "2025-07-03T23:00:00+02:00",
         "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801217a293046fd00f470b0_Hanne-Boel.jpg",
         "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801549085f9d4f685951baf_Header-Hanne-Boel.png",
-        "beskrivelse": "Dette må fylles ut"
+        "beskrivelse": "Hanne Boel er en dansk sangerinne som har hatt en lang og suksessrik karriere, med et sound som beveger seg mellom soul, jazz, blues og pop. Hun er kjent for sin varme og kraftfulle stemme, og hennes musikk er preget av ektefølt formidling og elegante arrangementer. Hanne Boel har gitt ut flere bestselgende album og har en lojal fanskare både i Danmark og Norge. Hennes konserter er intime opplevelser der musikken står i sentrum."
     },
     {
         "id": 5,
@@ -78,7 +78,7 @@
         "stoppTid": "2025-07-04T17:00:00+02:00",
         "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801217a31f2f0388d3d4590_Onkl-P.jpg",
         "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/680154900c01ccdc06e06dca_Header-OnklP.png",
-        "beskrivelse": "Dette må fylles ut"
+        "beskrivelse": "OnklP, også kjent som Pål Tøien, er en av Norges mest anerkjente rappere og låtskrivere. Han er både soloartist og frontfigur i OnklP & De Fjerne Slektningene. Med sin karakteristiske rå stemme og ærlige, ofte mørke tekster om livets opp- og nedturer, har han satt dype spor i norsk musikk. OnklP er kjent for å formidle historier om både kjærlighet, rus og håp, og hans liveopptredener er intense og gripende."
     },
     {
         "id": 6,
@@ -94,11 +94,11 @@
         "stoppTid": "2025-07-04T19:00:00+02:00",
         "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801217a9bff30a4cfadf679_Hkeem.jpg",
         "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/68015490737a1d834a9d8e0e_Header-HKEEM.png",
-        "beskrivelse": "Dette må fylles ut"
+        "beskrivelse": "Hkeem, med røtter fra Gambia, har etablert seg som en av Norges mest profilerte rappere og sangere. Han slo gjennom med den enorme hiten «Fy faen» i 2017, som ble en landeplage og ga ham Spellemannsprisen. Hkeem kombinerer fengende beats med melodiske hooks og tekster som ofte omhandler kjærlighet, drømmer og livet i Oslo. Han er kjent for sin karisma og evne til å blande ulike musikalske stiler."
     },
     {
         "id": 7,
-        "navn": "DiDerre",
+        "navn": "Di Derre",
         "tid": "19:00 - 20:00",
         "dato": "4. juli",
         "hvor": "Fredag",
@@ -110,7 +110,7 @@
         "stoppTid": "2025-07-04T20:00:00+02:00",
         "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801217ae6265dc1aa840b01_Di-Derre.jpg",
         "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/68015490e950a220177dfd30_Header-Diderre.png",
-        "beskrivelse": "Dette må fylles ut"
+        "beskrivelse": "Di Derre er et norsk poprockband som ble startet på 1990-tallet, med forfatteren Jo Nesbø som frontfigur. Bandet er kjent for sine lune, hverdagslige tekster som forteller små historier fra norsk liv og kjærlighet. Med sanger som «Jenter» og «Rumba med Gunn» har de levert udødelige klassikere som får både unge og gamle til å synge med. Di Derre byr på nostalgi, humor og god stemning på scenen."
     },
     {
         "id": 8,
@@ -126,7 +126,7 @@
         "stoppTid": "2025-07-04T21:00:00+02:00",
         "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801217adf6e512b904a4cb5_Violet-Road.jpg",
         "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/68015491179cb73dc14c453b_Header-Violet-Road.png",
-        "beskrivelse": "Dette må fylles ut"
+        "beskrivelse": "Violet Road er et folkerockband fra Tromsø, bestående av flere brødre og en barndomsvenn. De er kjent for sine flerstemte harmonier, fengende melodier og varme uttrykk. Med låter som kombinerer akustiske instrumenter, glade rytmer og sterke refrenger, har de trollbundet publikum på festivaler over hele landet. Violet Road gir en følelse av samhold og glede, og leverer alltid en inkluderende konsertopplevelse."
     },
     {
         "id": 9,
@@ -142,7 +142,7 @@
         "stoppTid": "2025-07-04T22:00:00+02:00",
         "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801217aa26fa085dfedace1_Synne-Vo.jpg",
         "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801549135d1994de8d9d41b_Header-Synne-Vo.png",
-        "beskrivelse": "Dette må fylles ut"
+        "beskrivelse": "Synne Vo er en spennende artist fra Norge som kombinerer moderne pop med elementer av nordisk folkemusikk. Med sine ærlige og nærværende tekster tar hun lytterne med på en personlig reise gjennom kjærlighet, oppvekst og identitet. Hun har blitt omtalt som en av de mest lovende nye stemmene i norsk pop, og hennes varme vokal og melodiske låter har allerede vunnet mange hjerter."
     },
     {
         "id": 10,
@@ -158,7 +158,7 @@
         "stoppTid": "2025-07-05T17:00:00+02:00",
         "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801217ae94701919162338e_DeLillos.jpg",
         "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/68015490512736c43b80df9f_Header-deLillos.png",
-        "beskrivelse": "Dette må fylles ut"
+        "beskrivelse": "deLillos er et av de mest ikoniske bandene i norsk pop- og rockhistorie, grunnlagt i 1984. Bandet er kjent for sine poetiske, hverdagslige tekster som fanger små og store øyeblikk fra livet, ofte med et humoristisk eller nostalgisk blikk. Med hits som «Neste sommer» og «Kokken Tor» har de skapt sanger som har blitt en del av norsk kulturarv. deLillos er like aktuelle i dag, og deres konserter er fulle av allsang og gode vibber."
     },
     {
         "id": 11,
@@ -174,7 +174,7 @@
         "stoppTid": "2025-07-05T18:00:00+02:00",
         "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801217abacfafa4c864e7c1_Sash.jpg",
         "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/68015490986a9d0cfa8524a1_Header-Dj-Sash.png",
-        "beskrivelse": "Dette må fylles ut"
+        "beskrivelse": "DJ Sash! er en internasjonal DJ og produsent fra Tyskland som fikk sitt gjennombrudd på 90-tallet med massive hits som «Encore Une Fois», «Ecuador» og «Stay». Han er en pioner innen eurodance-sjangeren, og hans musikk har toppet hitlistene i mange land. Med energiske beats og ikoniske melodilinjer er DJ Sash! et sikkert kort for en feststemt dansegulvopplevelse som tar publikum tilbake til den elektroniske gullalderen."
     },
     {
         "id": 12,
@@ -190,7 +190,7 @@
         "stoppTid": "2025-07-05T19:00:00+02:00",
         "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801217abc5af9f7e4081b57_Ruben.jpg",
         "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/68015491bea944036eb33f9f_Header-Ruben.png",
-        "beskrivelse": "Dette må fylles ut"
+        "beskrivelse": "Ruben Markussen, kjent under artistnavnet Ruben, er en singer-songwriter fra Bjarkøy i Nord-Norge. Han slo gjennom med balladen «Walls», som fanget oppmerksomheten til både publikum og kritikere. Rubens musikk er preget av sårbarhet, sterke følelser og ærlige tekster, pakket inn i store popproduksjoner. Hans mektige vokal og personlige uttrykk gjør ham til en av Norges mest spennende popartister."
     },
     {
         "id": 13,
@@ -206,7 +206,7 @@
         "stoppTid": "2025-07-05T20:00:00+02:00",
         "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801217a727672331c7f700b_TooFarGone.jpg",
         "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/680154902c4f5f6a8df2c14d_Header-TooFarGone.png",
-        "beskrivelse": "Dette må fylles ut"
+        "beskrivelse": "Too Far Gone er et band fra Trøndelag som har spesialisert seg på en blanding av country, rock og folkemusikk. Med fengende melodier og tekster som omhandler både kjærlighet, fest og trøndersk livsstil, har de blitt et kjært navn på festivaler og bygdefester. Låter som «Zetor’n» og «My Angel» er eksempler på deres evne til å lage låter som treffer både hjerte og dansefot."
     },
     {
         "id": 14,
@@ -222,7 +222,7 @@
         "stoppTid": "2025-07-05T21:00:00+02:00",
         "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801217afe483f0a8eec224f_VanishingVegas.jpg",
         "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/680154918435a5959c2a0011_Header-Vanishing-Vegas.png",
-        "beskrivelse": "Dette må fylles ut"
+        "beskrivelse": "Vanishing Vegas er et norsk rockeband kjent for sin energiske og melodiske stil. De kombinerer klassisk rock med moderne elementer og har en evne til å skape catchy hooks og sterke refrenger. Bandet leverer sceneshow som oser av spilleglede og rock’n’roll-attitude, og de er et band som virkelig gir alt i sine liveopptredener."
     },
     {
         "id": 15,
@@ -238,7 +238,7 @@
         "stoppTid": "2025-07-05T22:00:00+02:00",
         "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6811e94692f9654acde3e0c7_Senjahopen.jpg",
         "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6811e95aef67f37163a14bd3_Header-Senjahopen.png",
-        "beskrivelse": "Dette må fylles ut"
+        "beskrivelse": "Senjahopen er et band fra Senja som serverer rock med en god dose humor, varme og dialekt. Med en blanding av rock, punk og visesang synger de om livet i nord, både det harde og det festlige. Deres fengende låter, som ofte inneholder morsomme og treffende observasjoner, har gjort dem til et populært liveband som alltid leverer god stemning."
     }
 ]
     
