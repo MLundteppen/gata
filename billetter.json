@@ -61,7 +61,7 @@
   },
   {
     "id": 5,
-    "billett": "VIP Dagpass fredag",
+    "billett": "Dagpass fredag - Teltbaren",
     "underline": true,
     "aldersgrense": "20+",
     "pris": "Kr 1250",
@@ -91,7 +91,7 @@
   },
   {
     "id": 7,
-    "billett": "VIP Dagpass lørdag",
+    "billett": "Dagpass lørdag - Teltbaren",
     "underline": true,
     "aldersgrense": "20+",
     "pris": "Kr 1250",
@@ -121,7 +121,7 @@
   },
   {
     "id": 9,
-    "billett": "VIP Helgepass",
+    "billett": "Helgepass - Teltbaren",
     "underline": true,
     "aldersgrense": "20+",
     "pris": "Kr 2065",
