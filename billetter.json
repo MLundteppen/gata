@@ -61,7 +61,7 @@
   },
   {
     "id": 5,
-    "billett": "Dagpass fredag - Teltbaren",
+    "billett": "Dagpass fredag /m teltbaren",
     "underline": true,
     "aldersgrense": "20+",
     "pris": "Kr 1250",
@@ -91,7 +91,7 @@
   },
   {
     "id": 7,
-    "billett": "Dagpass lørdag - Teltbaren",
+    "billett": "Dagpass lørdag /m teltbaren",
     "underline": true,
     "aldersgrense": "20+",
     "pris": "Kr 1250",
@@ -121,7 +121,7 @@
   },
   {
     "id": 9,
-    "billett": "Helgepass - Teltbaren",
+    "billett": "Helgepass /m teltbaren",
     "underline": true,
     "aldersgrense": "20+",
     "pris": "Kr 2065",
