@@ -146,6 +146,22 @@
     },
     {
         "id": 10,
+        "navn": "DJ Kasset",
+        "tid": "22:00 - 23:00",
+        "dato": "4. juli",
+        "hvor": "Fredag",
+        "font": "Montserrat-Bold",
+        "fontSize": 19,
+        "tekstFarge": "hvit",
+        "bakgrunnsFarge": "darkGradiant",
+        "startTid": "2025-07-04T22:00:00+02:00",
+        "stoppTid": "2025-07-04T23:00:00+02:00",
+        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/683195471bd80c3b08c91af5_DJ-Kassett.jpg",
+        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6831956f3d9abd79ab34451d_Header-DJ-Kasset.png",
+        "beskrivelse": "DJ Kasset er en energibombe bak miksebordet som tar deg med på en musikalsk reise fylt med dansbare beats og uforglemmelige øyeblikk. Han blander gamle klassikere med moderne favoritter på en måte som får publikum til å slippe seg løs på dansegulvet. Med et glimt i øyet og en kjærlighet for å skape stemning, sørger DJ Kasset for en festopplevelse som setter seg i minnet."
+    },
+    {
+        "id": 11,
         "navn": "deLillos",
         "tid": "16:00 - 17:00",
         "dato": "5. juli",
@@ -161,7 +177,7 @@
         "beskrivelse": "deLillos er et av de mest ikoniske bandene i norsk pop- og rockhistorie, grunnlagt i 1984. Bandet er kjent for sine poetiske, hverdagslige tekster som fanger små og store øyeblikk fra livet, ofte med et humoristisk eller nostalgisk blikk. Med hits som «Neste sommer» og «Kokken Tor» har de skapt sanger som har blitt en del av norsk kulturarv. deLillos er like aktuelle i dag, og deres konserter er fulle av allsang og gode vibber."
     },
     {
-        "id": 11,
+        "id": 12,
         "navn": "DJ Sash!",
         "tid": "17:00 - 18:00",
         "dato": "5. juli",
@@ -177,7 +193,7 @@
         "beskrivelse": "DJ Sash! er en internasjonal DJ og produsent fra Tyskland som fikk sitt gjennombrudd på 90-tallet med massive hits som «Encore Une Fois», «Ecuador» og «Stay». Han er en pioner innen eurodance-sjangeren, og hans musikk har toppet hitlistene i mange land. Med energiske beats og ikoniske melodilinjer er DJ Sash! et sikkert kort for en feststemt dansegulvopplevelse som tar publikum tilbake til den elektroniske gullalderen."
     },
     {
-        "id": 12,
+        "id": 13,
         "navn": "Ruben",
         "tid": "18:00 - 19:00",
         "dato": "5. juli",
@@ -193,7 +209,7 @@
         "beskrivelse": "Ruben Markussen, kjent under artistnavnet Ruben, er en singer-songwriter fra Bjarkøy i Nord-Norge. Han slo gjennom med balladen «Walls», som fanget oppmerksomheten til både publikum og kritikere. Rubens musikk er preget av sårbarhet, sterke følelser og ærlige tekster, pakket inn i store popproduksjoner. Hans mektige vokal og personlige uttrykk gjør ham til en av Norges mest spennende popartister."
     },
     {
-        "id": 13,
+        "id": 14,
         "navn": "Too Far Gone",
         "tid": "19:00 - 20:00",
         "dato": "5. juli",
@@ -209,7 +225,7 @@
         "beskrivelse": "Too Far Gone er et band fra Trøndelag som har spesialisert seg på en blanding av country, rock og folkemusikk. Med fengende melodier og tekster som omhandler både kjærlighet, fest og trøndersk livsstil, har de blitt et kjært navn på festivaler og bygdefester. Låter som «Zetor’n» og «My Angel» er eksempler på deres evne til å lage låter som treffer både hjerte og dansefot."
     },
     {
-        "id": 14,
+        "id": 15,
         "navn": "Vanishing Vegas",
         "tid": "20:00 - 21:00",
         "dato": "5. juli",
@@ -225,7 +241,7 @@
         "beskrivelse": "Vanishing Vegas er et norsk rockeband kjent for sin energiske og melodiske stil. De kombinerer klassisk rock med moderne elementer og har en evne til å skape catchy hooks og sterke refrenger. Bandet leverer sceneshow som oser av spilleglede og rock’n’roll-attitude, og de er et band som virkelig gir alt i sine liveopptredener."
     },
     {
-        "id": 15,
+        "id": 16,
         "navn": "Senjahopen",
         "tid": "21:00 - 22:00",
         "dato": "5. juli",
