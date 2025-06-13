@@ -108,20 +108,8 @@
     "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/684bee1438b45bb94fecca42_Bodø-Gatemat-Logo.jpg"
   },
   {
-    "id": 10,
-    "kategori": "Pølser",
-    "navn": "Pommes frites liten/stor",
-    "innhold": "",
-    "pris": "49,- / 69,-",
-    "hvem": "Bodø Gatemat",
-    "utsolgt": false,
-    "tekstFarge": "bodoGatematTekst",
-    "bakgrunnsFarge": "bodoGatemat",
-    "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/684bee1438b45bb94fecca42_Bodø-Gatemat-Logo.jpg"
-  },
-  {
     "id": 11,
-    "kategori": "Pølser",
+    "kategori": "Tilbehør til pølser",
     "navn": "Rekesalat",
     "innhold": "",
     "pris": "15,-",
@@ -133,7 +121,7 @@
   },
   {
     "id": 12,
-    "kategori": "Pølser",
+    "kategori": "Tilbehør til pølser",
     "navn": "Sprøstekt løk",
     "innhold": "",
     "pris": "15,-",
@@ -145,7 +133,7 @@
   },
   {
     "id": 13,
-    "kategori": "Pølser",
+    "kategori": "Tilbehør til pølser",
     "navn": "Salat",
     "innhold": "",
     "pris": "20,-",
@@ -157,7 +145,7 @@
   },
   {
     "id": 14,
-    "kategori": "Pølser",
+    "kategori": "Tilbehør til pølser",
     "navn": "Rå løk",
     "innhold": "",
     "pris": "20,-",
@@ -169,7 +157,7 @@
   },
   {
     "id": 15,
-    "kategori": "Pølser",
+    "kategori": "Tilbehør til pølser",
     "navn": "Tomat",
     "innhold": "",
     "pris": "20,-",
@@ -181,7 +169,7 @@
   },
   {
     "id": 16,
-    "kategori": "Pølser",
+    "kategori": "Tilbehør til pølser",
     "navn": "Agurk",
     "innhold": "",
     "pris": "20,-",
@@ -193,7 +181,7 @@
   },
   {
     "id": 17,
-    "kategori": "Pølser",
+    "kategori": "Tilbehør til pølser",
     "navn": "Dressing",
     "innhold": "",
     "pris": "20,-",
