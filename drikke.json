@@ -144,6 +144,149 @@
   },
   {
     "id": 14,
+    "kategori": "Øl",
+    "drikke": "Nordlands pils",
+    "innhold": "0,5l",
+    "pris": "125,-",
+    "utsolgt": false,
+    "hvor": "Teltbaren",
+    "bakgrunnsFarge": "darkGradiant",
+    "aldersgrense": "18+"
+  },
+  {
+    "id": 15,
+    "kategori": "Øl",
+    "drikke": "Ringnes Lite 0,5L",
+    "innhold": "0,5l",
+    "pris": "135,-",
+    "utsolgt": false,
+    "hvor": "Teltbaren",
+    "bakgrunnsFarge": "darkGradiant",
+    "aldersgrense": "18+"
+  },
+  {
+    "id": 16,
+    "kategori": "Øl",
+    "drikke": "1 meter øl",
+    "innhold": "Kommer",
+    "pris": "700,-",
+    "utsolgt": false,
+    "hvor": "Teltbaren",
+    "bakgrunnsFarge": "darkGradiant",
+    "aldersgrense": "18+"
+  },
+  {
+    "id": 17,
+    "kategori": "Cider / rusbrus",
+    "drikke": "Breezer",
+    "innhold": "0,33l",
+    "pris": "125,-",
+    "utsolgt": false,
+    "hvor": "Teltbaren",
+    "bakgrunnsFarge": "darkGradiant",
+    "aldersgrense": "18+"
+  },
+  {
+    "id": 18,
+    "kategori": "Cider / rusbrus",
+    "drikke": "Somersby",
+    "innhold": "0,33l",
+    "pris": "125,-",
+    "utsolgt": false,
+    "hvor": "Teltbaren",
+    "bakgrunnsFarge": "darkGradiant",
+    "aldersgrense": "18+"
+  },
+  {
+    "id": 19,
+    "kategori": "Vin / bobler",
+    "drikke": "Rød/hvitvin",
+    "innhold": "20cl",
+    "pris": "120,-",
+    "utsolgt": false,
+    "hvor": "Teltbaren",
+    "bakgrunnsFarge": "darkGradiant",
+    "aldersgrense": "18+"
+  },
+  {
+    "id": 20,
+    "kategori": "Vin / bobler",
+    "drikke": "Reisling flaske",
+    "innhold": "0,75l",
+    "pris": "500,-",
+    "utsolgt": false,
+    "hvor": "Teltbaren",
+    "bakgrunnsFarge": "darkGradiant",
+    "aldersgrense": "18+"
+  },
+  {
+    "id": 21,
+    "kategori": "Vin / bobler",
+    "drikke": "Prosecco glass",
+    "innhold": "20cl",
+    "pris": "105,-",
+    "utsolgt": false,
+    "hvor": "Teltbaren",
+    "bakgrunnsFarge": "darkGradiant",
+    "aldersgrense": "18+"
+  },
+  {
+    "id": 22,
+    "kategori": "Vin / bobler",
+    "drikke": "Prosecco flaske",
+    "innhold": "0,75l",
+    "pris": "500,-",
+    "utsolgt": false,
+    "hvor": "Teltbaren",
+    "bakgrunnsFarge": "darkGradiant",
+    "aldersgrense": "18+"
+  },
+  {
+    "id": 23,
+    "kategori": "Div",
+    "drikke": "Kaffe Bailyes",
+    "innhold": " ",
+    "pris": "100,-",
+    "utsolgt": false,
+    "hvor": "Teltbaren",
+    "bakgrunnsFarge": "darkGradiant",
+    "aldersgrense": "18+"
+  },
+  {
+    "id": 24,
+    "kategori": "Alkoholfritt",
+    "drikke": "Alkoholfri",
+    "innhold": " ",
+    "pris": "75,-",
+    "utsolgt": false,
+    "hvor": "Teltbaren",
+    "bakgrunnsFarge": "darkGradiant",
+    "aldersgrense": " "
+  },
+  {
+    "id": 25,
+    "kategori": "Alkoholfritt",
+    "drikke": "Mineralvann",
+    "innhold": " ",
+    "pris": "50,-",
+    "utsolgt": false,
+    "hvor": "Teltbaren",
+    "bakgrunnsFarge": "darkGradiant",
+    "aldersgrense": " "
+  },
+  {
+    "id": 26,
+    "kategori": "Alkoholfritt",
+    "drikke": "Imsdal",
+    "innhold": " ",
+    "pris": "40,-",
+    "utsolgt": false,
+    "hvor": "Teltbaren",
+    "bakgrunnsFarge": "darkGradiant",
+    "aldersgrense": " "
+  },
+  {
+    "id": 27,
     "kategori": "Drinker",
     "drikke": "Vodka Battery",
     "innhold": " ",
@@ -154,7 +297,7 @@
     "aldersgrense": "20+"
   },
   {
-    "id": 15,
+    "id": 28,
     "kategori": "Drinker",
     "drikke": "Gin Tonic/Russian",
     "innhold": " ",
@@ -165,7 +308,7 @@
     "aldersgrense": "20+"
   },
   {
-    "id": 16,
+    "id": 29,
     "kategori": "Drinker",
     "drikke": "Bacardi Razz Rødbrus",
     "innhold": " ",
@@ -176,7 +319,7 @@
     "aldersgrense": "20+"
   },
   {
-    "id": 17,
+    "id": 30,
     "kategori": "Drinker",
     "drikke": "Gata's Mule",
     "innhold": " ",
@@ -187,7 +330,7 @@
     "aldersgrense": "20+"
   },
   {
-    "id": 18,
+    "id": 31,
     "kategori": "Drinker",
     "drikke": "GataBlå",
     "innhold": " ",
@@ -198,7 +341,7 @@
     "aldersgrense": "20+"
   },
   {
-    "id": 19,
+    "id": 32,
     "kategori": "Shots",
     "drikke": "Mintu",
     "innhold": " ",
@@ -209,7 +352,7 @@
     "aldersgrense": "20+"
   },
   {
-    "id": 20,
+    "id": 33,
     "kategori": "Shots",
     "drikke": "Jäger",
     "innhold": " ",
@@ -220,7 +363,7 @@
     "aldersgrense": "20+"
   },
   {
-    "id": 21,
+    "id": 34,
     "kategori": "Shots",
     "drikke": "Hot n Sweet",
     "innhold": " ",
@@ -231,7 +374,7 @@
     "aldersgrense": "20+"
   },
   {
-    "id": 22,
+    "id": 35,
     "kategori": "Shots",
     "drikke": "Sambucca",
     "innhold": " ",
@@ -242,7 +385,7 @@
     "aldersgrense": "20+"
   },
   {
-    "id": 23,
+    "id": 36,
     "kategori": "Shots",
     "drikke": "Aquavit",
     "innhold": " ",
@@ -253,7 +396,7 @@
     "aldersgrense": "20+"
   },
   {
-    "id": 24,
+    "id": 37,
     "kategori": "Småsure",
     "drikke": "Småsure enkel",
     "innhold": " ",
@@ -264,7 +407,7 @@
     "aldersgrense": "20+"
   },
   {
-    "id": 25,
+    "id": 38,
     "kategori": "Småsure",
     "drikke": "Småsure partymix",
     "innhold": " ",
