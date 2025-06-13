@@ -158,7 +158,7 @@
   {
     "id": 14,
     "kategori": "Pølser",
-    "navn": "Salat",
+    "navn": "Rå løk",
     "innhold": "",
     "pris": "20,-",
     "hvem": "Bodø Gatemat",
@@ -170,7 +170,7 @@
   {
     "id": 15,
     "kategori": "Pølser",
-    "navn": "Rå løk",
+    "navn": "Tomat",
     "innhold": "",
     "pris": "20,-",
     "hvem": "Bodø Gatemat",
@@ -182,7 +182,7 @@
   {
     "id": 16,
     "kategori": "Pølser",
-    "navn": "Tomat",
+    "navn": "Agurk",
     "innhold": "",
     "pris": "20,-",
     "hvem": "Bodø Gatemat",
@@ -194,18 +194,6 @@
   {
     "id": 17,
     "kategori": "Pølser",
-    "navn": "Agurk",
-    "innhold": "",
-    "pris": "20,-",
-    "hvem": "Bodø Gatemat",
-    "utsolgt": false,
-    "tekstFarge": "bodoGatematTekst",
-    "bakgrunnsFarge": "bodoGatemat",
-    "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/684bee1438b45bb94fecca42_Bodø-Gatemat-Logo.jpg"
-  },
-  {
-    "id": 18,
-    "kategori": "Pølser",
     "navn": "Dressing",
     "innhold": "",
     "pris": "20,-",
@@ -216,7 +204,7 @@
     "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/684bee1438b45bb94fecca42_Bodø-Gatemat-Logo.jpg"
   },
   {
-    "id": 19,
+    "id": 18,
     "kategori": "Drikke",
     "navn": "Drikke",
     "innhold": "0,5l",
