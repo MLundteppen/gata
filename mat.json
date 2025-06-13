@@ -1,110 +1,211 @@
 [
   {
     "id": 1,
-    "navn": "Pizza",
-    "innhold": "Ost & skinke",
-    "pris": "150,-",
-    "hvem": "Orlando",
+    "kategori": "Vårruller",
+    "navn": "Vårruller med ris",
+    "innhold": "4 stk",
+    "pris": "179,-",
+    "hvem": "Bodø Gatemat",
     "utsolgt": false,
-    "bakgrunnsFarge": "darkGradiant"
+    "bakgrunnsFarge": "darkGradiant",
+    "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/684bee1438b45bb94fecca42_Bodø-Gatemat-Logo.jpg"
   },
   {
     "id": 2,
-    "navn": "Burger",
-    "innhold": "150g",
-    "pris": "120,-",
-    "hvem": "Orlando",
+    "kategori": "Vårruller",
+    "navn": "Vegetar vårruller med ris",
+    "innhold": "4 stk",
+    "pris": "159,-",
+    "hvem": "Bodø Gatemat",
     "utsolgt": false,
-    "bakgrunnsFarge": "darkGradiant"
+    "bakgrunnsFarge": "darkGradiant",
+    "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/684bee1438b45bb94fecca42_Bodø-Gatemat-Logo.jpg"
   },
   {
     "id": 3,
-    "navn": "Sushi",
-    "innhold": "Nigiri",
-    "pris": "110,-",
-    "hvem": "Orlando",
+    "kategori": "Vårruller",
+    "navn": "Ekstra vårrull",
+    "innhold": "1 stk",
+    "pris": "35,-",
+    "hvem": "Bodø Gatemat",
     "utsolgt": false,
-    "bakgrunnsFarge": "darkGradiant"
+    "bakgrunnsFarge": "darkGradiant",
+    "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/684bee1438b45bb94fecca42_Bodø-Gatemat-Logo.jpg"
+  },
+  {
+    "id": 4,
+    "kategori": "Vårruller",
+    "navn": "Chillisaus/dipp",
+    "innhold": "1 stk",
+    "pris": "20,-",
+    "hvem": "Bodø Gatemat",
+    "utsolgt": false,
+    "bakgrunnsFarge": "darkGradiant",
+    "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/684bee1438b45bb94fecca42_Bodø-Gatemat-Logo.jpg"
   },
   {
     "id": 5,
-    "navn": "Kebab",
-    "innhold": "I pita",
-    "pris": "120,-",
-    "hvem": "Orlando",
+    "kategori": "Pølser",
+    "navn": "Grillpølse med brød",
+    "innhold": "",
+    "pris": "49,-",
+    "hvem": "Bodø Gatemat",
     "utsolgt": false,
-    "bakgrunnsFarge": "darkGradiant"
+    "bakgrunnsFarge": "darkGradiant",
+    "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/684bee1438b45bb94fecca42_Bodø-Gatemat-Logo.jpg"
   },
   {
     "id": 6,
-    "navn": "Grillpølse i brød",
-    "innhold": " ",
-    "pris": "69,-",
-    "hvem": "Esso",
+    "kategori": "Pølser",
+    "navn": "Wienerpølse med brød",
+    "innhold": "",
+    "pris": "49,-",
+    "hvem": "Bodø Gatemat",
     "utsolgt": false,
-    "bakgrunnsFarge": "darkGradiant"
+    "bakgrunnsFarge": "darkGradiant",
+    "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/684bee1438b45bb94fecca42_Bodø-Gatemat-Logo.jpg"
   },
   {
     "id": 7,
-    "navn": "Wienerpølse i brød",
-    "innhold": " ",
-    "pris": "69,-",
-    "hvem": "Esso",
+    "kategori": "Pølser",
+    "navn": "Pølse med potetmos",
+    "innhold": "",
+    "pris": "89,-",
+    "hvem": "Bodø Gatemat",
     "utsolgt": false,
-    "bakgrunnsFarge": "darkGradiant"
+    "bakgrunnsFarge": "darkGradiant",
+    "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/684bee1438b45bb94fecca42_Bodø-Gatemat-Logo.jpg"
   },
   {
     "id": 8,
-    "navn": "Sprøstekt løk",
-    "innhold": "Tilbehør",
-    "pris": "10,-",
-    "hvem": "Esso",
+    "kategori": "Pølser",
+    "navn": "Pølse med pommes frites",
+    "innhold": "",
+    "pris": "89,-",
+    "hvem": "Bodø Gatemat",
     "utsolgt": false,
-    "bakgrunnsFarge": "darkGradiant"
+    "bakgrunnsFarge": "darkGradiant",
+    "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/684bee1438b45bb94fecca42_Bodø-Gatemat-Logo.jpg"
   },
   {
     "id": 9,
-    "navn": "Rekesalat",
-    "innhold": "Tilbehør",
-    "pris": "11,-",
-    "hvem": "Esso",
+    "kategori": "Pølser",
+    "navn": "Pommes frites liten/stor",
+    "innhold": "",
+    "pris": "49,- / 69,-",
+    "hvem": "Bodø Gatemat",
     "utsolgt": false,
-    "bakgrunnsFarge": "darkGradiant"
+    "bakgrunnsFarge": "darkGradiant",
+    "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/684bee1438b45bb94fecca42_Bodø-Gatemat-Logo.jpg"
   },
   {
     "id": 10,
-    "navn": "Hamburger",
-    "innhold": "100g",
-    "pris": "110,-",
-    "hvem": "Esso",
+    "kategori": "Pølser",
+    "navn": "Pommes frites liten/stor",
+    "innhold": "",
+    "pris": "49,- / 69,-",
+    "hvem": "Bodø Gatemat",
     "utsolgt": false,
-    "bakgrunnsFarge": "darkGradiant"
+    "bakgrunnsFarge": "darkGradiant",
+    "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/684bee1438b45bb94fecca42_Bodø-Gatemat-Logo.jpg"
   },
   {
     "id": 11,
-    "navn": "Hamburger",
-    "innhold": "150g",
-    "pris": "130,-",
-    "hvem": "Esso",
+    "kategori": "Pølser",
+    "navn": "Rekesalat",
+    "innhold": "",
+    "pris": "15,-",
+    "hvem": "Bodø Gatemat",
     "utsolgt": false,
-    "bakgrunnsFarge": "darkGradiant"
+    "bakgrunnsFarge": "darkGradiant",
+    "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/684bee1438b45bb94fecca42_Bodø-Gatemat-Logo.jpg"
   },
   {
     "id": 12,
-    "navn": "Ost",
-    "innhold": "Tilbehør til burger",
-    "pris": "9,-",
-    "hvem": "Esso",
+    "kategori": "Pølser",
+    "navn": "Sprøstekt løk",
+    "innhold": "",
+    "pris": "15,-",
+    "hvem": "Bodø Gatemat",
     "utsolgt": false,
-    "bakgrunnsFarge": "darkGradiant"
+    "bakgrunnsFarge": "darkGradiant",
+    "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/684bee1438b45bb94fecca42_Bodø-Gatemat-Logo.jpg"
   },
   {
     "id": 13,
-    "navn": "Bacon",
-    "innhold": "Tilbehør til burger",
-    "pris": "11,-",
-    "hvem": "Esso",
+    "kategori": "Pølser",
+    "navn": "Salat",
+    "innhold": "",
+    "pris": "20,-",
+    "hvem": "Bodø Gatemat",
     "utsolgt": false,
-    "bakgrunnsFarge": "darkGradiant"
+    "bakgrunnsFarge": "darkGradiant",
+    "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/684bee1438b45bb94fecca42_Bodø-Gatemat-Logo.jpg"
+  },
+  {
+    "id": 14,
+    "kategori": "Pølser",
+    "navn": "Salat",
+    "innhold": "",
+    "pris": "20,-",
+    "hvem": "Bodø Gatemat",
+    "utsolgt": false,
+    "bakgrunnsFarge": "darkGradiant",
+    "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/684bee1438b45bb94fecca42_Bodø-Gatemat-Logo.jpg"
+  },
+  {
+    "id": 15,
+    "kategori": "Pølser",
+    "navn": "Rå løk",
+    "innhold": "",
+    "pris": "20,-",
+    "hvem": "Bodø Gatemat",
+    "utsolgt": false,
+    "bakgrunnsFarge": "darkGradiant",
+    "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/684bee1438b45bb94fecca42_Bodø-Gatemat-Logo.jpg"
+  },
+  {
+    "id": 16,
+    "kategori": "Pølser",
+    "navn": "Tomat",
+    "innhold": "",
+    "pris": "20,-",
+    "hvem": "Bodø Gatemat",
+    "utsolgt": false,
+    "bakgrunnsFarge": "darkGradiant",
+    "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/684bee1438b45bb94fecca42_Bodø-Gatemat-Logo.jpg"
+  },
+  {
+    "id": 17,
+    "kategori": "Pølser",
+    "navn": "Agurk",
+    "innhold": "",
+    "pris": "20,-",
+    "hvem": "Bodø Gatemat",
+    "utsolgt": false,
+    "bakgrunnsFarge": "darkGradiant",
+    "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/684bee1438b45bb94fecca42_Bodø-Gatemat-Logo.jpg"
+  },
+  {
+    "id": 18,
+    "kategori": "Pølser",
+    "navn": "Dressing",
+    "innhold": "",
+    "pris": "20,-",
+    "hvem": "Bodø Gatemat",
+    "utsolgt": false,
+    "bakgrunnsFarge": "darkGradiant",
+    "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/684bee1438b45bb94fecca42_Bodø-Gatemat-Logo.jpg"
+  },
+  {
+    "id": 19,
+    "kategori": "Drikke",
+    "navn": "Drikke",
+    "innhold": "0,5l",
+    "pris": "50,-",
+    "hvem": "Bodø Gatemat",
+    "utsolgt": false,
+    "bakgrunnsFarge": "darkGradiant",
+    "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/684bee1438b45bb94fecca42_Bodø-Gatemat-Logo.jpg"
   }
 ]
