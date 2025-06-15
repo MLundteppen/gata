@@ -202,5 +202,42 @@
     "tekstFarge": "bodoGatematTekst",
     "bakgrunnsFarge": "bodoGatemat",
     "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/684bee1438b45bb94fecca42_Bodø-Gatemat-Logo.jpg"
+  },
+  {
+    "id": 19,
+    "kategori": "Snacks",
+    "navn": "Popcorn",
+    "innhold": "",
+    "pris": "45,-",
+    "hvem": "Gatafestivalen",
+    "utsolgt": false,
+    "tekstFarge": "hvit",
+    "bakgrunnsFarge": "darkGradiant",
+    "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/684eecc7d2a12ade32bc7eb7_GataFestivalen-Logo-512.jpg"
+  },
+  {
+    "id": 20,
+    "kategori": "Snacks",
+    "navn": "Baconchips",
+    "innhold": "",
+    "pris": "45,-",
+    "hvem": "Gatafestivalen",
+    "utsolgt": false,
+    "tekstFarge": "hvit",
+    "bakgrunnsFarge": "darkGradiant",
+    "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/684eecc7d2a12ade32bc7eb7_GataFestivalen-Logo-512.jpg"
+  },
+  {
+    "id": 21,
+    "kategori": "Snacks",
+    "navn": "Peanøtter/chillinøtter",
+    "innhold": "",
+    "pris": "45,-",
+    "hvem": "Gatafestivalen",
+    "utsolgt": false,
+    "tekstFarge": "hvit",
+    "bakgrunnsFarge": "darkGradiant",
+    "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/684eecc7d2a12ade32bc7eb7_GataFestivalen-Logo-512.jpg"
   }
+  
 ]
