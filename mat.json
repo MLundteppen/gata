@@ -6,7 +6,7 @@
     "innhold": "4 stk",
     "pris": "179,-",
     "hvem": "Bodø Gatemat",
-    "utsolgt": true,
+    "utsolgt": false,
     "tekstFarge": "bodoGatematTekst",
     "bakgrunnsFarge": "bodoGatemat",
     "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/684bee1438b45bb94fecca42_Bodø-Gatemat-Logo.jpg"
@@ -54,7 +54,7 @@
     "innhold": "",
     "pris": "49,-",
     "hvem": "Bodø Gatemat",
-    "utsolgt": true,
+    "utsolgt": false,
     "tekstFarge": "bodoGatematTekst",
     "bakgrunnsFarge": "bodoGatemat",
     "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/684bee1438b45bb94fecca42_Bodø-Gatemat-Logo.jpg"
