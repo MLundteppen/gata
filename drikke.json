@@ -99,17 +99,6 @@
     "aldersgrense": "18+"
   },
   {
-    "id": 10,
-    "kategori": "Div",
-    "drikke": "Kaffe Bailyes",
-    "innhold": " ",
-    "pris": "100,-",
-    "utsolgt": false,
-    "hvor": "Baren",
-    "bakgrunnsFarge": "darkGradiant",
-    "aldersgrense": "18+"
-  },
-  {
     "id": 11,
     "kategori": "Alkoholfritt",
     "drikke": "Alkoholfri",
@@ -242,17 +231,6 @@
     "aldersgrense": "18+"
   },
   {
-    "id": 23,
-    "kategori": "Div",
-    "drikke": "Kaffe Bailyes",
-    "innhold": " ",
-    "pris": "100,-",
-    "utsolgt": false,
-    "hvor": "Teltbaren",
-    "bakgrunnsFarge": "darkGradiant",
-    "aldersgrense": "18+"
-  },
-  {
     "id": 24,
     "kategori": "Alkoholfritt",
     "drikke": "Alkoholfri",
@@ -342,6 +320,17 @@
   },
   {
     "id": 32,
+    "kategori": "Drinker",
+    "drikke": "Kaffe Bailyes",
+    "innhold": " ",
+    "pris": "100,-",
+    "utsolgt": false,
+    "hvor": "Teltbaren",
+    "bakgrunnsFarge": "darkGradiant",
+    "aldersgrense": ""
+  },
+  {
+    "id": 33,
     "kategori": "Shots",
     "drikke": "Mintu",
     "innhold": " ",
@@ -352,7 +341,7 @@
     "aldersgrense": "20+"
   },
   {
-    "id": 33,
+    "id": 34,
     "kategori": "Shots",
     "drikke": "Jäger",
     "innhold": " ",
@@ -363,7 +352,7 @@
     "aldersgrense": "20+"
   },
   {
-    "id": 34,
+    "id": 35,
     "kategori": "Shots",
     "drikke": "Hot n Sweet",
     "innhold": " ",
@@ -374,7 +363,7 @@
     "aldersgrense": "20+"
   },
   {
-    "id": 35,
+    "id": 36,
     "kategori": "Shots",
     "drikke": "Sambucca",
     "innhold": " ",
@@ -385,7 +374,7 @@
     "aldersgrense": "20+"
   },
   {
-    "id": 36,
+    "id": 37,
     "kategori": "Shots",
     "drikke": "Aquavit",
     "innhold": " ",
@@ -396,7 +385,7 @@
     "aldersgrense": "20+"
   },
   {
-    "id": 37,
+    "id": 38,
     "kategori": "Småsure",
     "drikke": "Småsure enkel",
     "innhold": " ",
@@ -407,7 +396,7 @@
     "aldersgrense": "20+"
   },
   {
-    "id": 38,
+    "id": 39,
     "kategori": "Småsure",
     "drikke": "Småsure partymix",
     "innhold": " ",
