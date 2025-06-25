@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "navn": "Emma",
+        "navn": "Arist 1",
         "tid":	"17:00 - 17:45",
         "dato":	"3. juli",
         "hvor": "Familiegata",
@@ -11,13 +11,13 @@
         "bakgrunnsFarge": "familieGata",
         "startTid": "2025-07-03T17:00:00+02:00",
         "stoppTid": "2025-07-03T17:45:00+02:00",
-        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6853031ea49c5e9b2ea3a5a0_Emma.jpg",
-        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6853038b835f3692355e39ae_Header-Emma.png",
-        "beskrivelse": "Emma Gunnarsen er en talentfull norsk popsanger som har vokst opp i rampelyset, inspirert av sine musikalske søsken. Med en kraftfull stemme og en naturlig scenetilstedeværelse har hun raskt gjort seg bemerket på den norske musikkscenen. Hun lager fengende poplåter som appellerer til både unge og voksne, og leverer alltid energiske og sjarmerende opptredener."
+        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/685c1a3e0427c79681ff90f7_PreVisning.jpg",
+        "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/685c1a46bc243a79396c8efe_34d95f12f99df891d4966354adc2bbac_Header-GATA.png",
+        "beskrivelse": "“Hold oversikt over hele festivalprogrammet med tider, scener og artistinfo. Bla gjennom dagene, zoom inn på festivalkartet, og få påminnelser før favorittartistene går på scenen!”"
     },
     {
         "id": 2,
-        "navn": "Synne Vo",
+        "navn": "Arist 2",
         "tid": "18:05 - 18:35",
         "dato": "3. juli",
         "hvor": "Familiegata",
@@ -27,14 +27,14 @@
         "bakgrunnsFarge": "familieGata",
         "startTid": "2025-07-03T18:05:00+02:00",
         "stoppTid": "2025-07-03T18:35:00+02:00",
-        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801217aa26fa085dfedace1_Synne-Vo.jpg",
+        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/685c1a3e0427c79681ff90f7_PreVisning.jpg",
         "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801549135d1994de8d9d41b_Header-Synne-Vo.png",
         "beskrivelse": "Synne Vo er en spennende artist fra Norge som kombinerer moderne pop med elementer av nordisk folkemusikk. Med sine ærlige og nærværende tekster tar hun lytterne med på en personlig reise gjennom kjærlighet, oppvekst og identitet. Hun har blitt omtalt som en av de mest lovende nye stemmene i norsk pop, og hennes varme vokal og melodiske låter har allerede vunnet mange hjerter."
             
     },
     {
         "id": 3,
-        "navn": "Hkeem",
+        "navn": "Arist 3",
         "tid": "18:45 - 19:15",
         "dato": "3. juli",
         "hvor": "Familiegata",
@@ -44,14 +44,14 @@
         "bakgrunnsFarge": "familieGata",
         "startTid": "2025-07-03T18:45:00+02:00",
         "stoppTid": "2025-07-03T19:15:00+02:00",
-        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801217a9bff30a4cfadf679_Hkeem.jpg",
+        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/685c1a3e0427c79681ff90f7_PreVisning.jpg",
         "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/68015490737a1d834a9d8e0e_Header-HKEEM.png",
         "beskrivelse": "Hkeem, med røtter fra Gambia, har etablert seg som en av Norges mest profilerte rappere og sangere. Han slo gjennom med den enorme hiten «Fy faen» i 2017, som ble en landeplage og ga ham Spellemannsprisen. Hkeem kombinerer fengende beats med melodiske hooks og tekster som ofte omhandler kjærlighet, drømmer og livet i Oslo. Han er kjent for sin karisma og evne til å blande ulike musikalske stiler."
                 
     },
     {
         "id": 4,
-        "navn": "Hanne Boel",
+        "navn": "Arist 4",
         "tid": "20:45 - 22:15",
         "dato": "3. juli",
         "hvor": "Torsdag i teltet",
@@ -61,14 +61,14 @@
         "bakgrunnsFarge": "torsdagTeltet",
         "startTid": "2025-07-03T20:45:00+02:00",
         "stoppTid": "2025-07-03T22:15:00+02:00",
-        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801217a293046fd00f470b0_Hanne-Boel.jpg",
+        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/685c1a3e0427c79681ff90f7_PreVisning.jpg",
         "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801549085f9d4f685951baf_Header-Hanne-Boel.png",
         "beskrivelse": "Hanne Boel er en dansk sangerinne som har hatt en lang og suksessrik karriere, med et sound som beveger seg mellom soul, jazz, blues og pop. Hun er kjent for sin varme og kraftfulle stemme, og hennes musikk er preget av ektefølt formidling og elegante arrangementer. Hanne Boel har gitt ut flere bestselgende album og har en lojal fanskare både i Danmark og Norge. Hennes konserter er intime opplevelser der musikken står i sentrum."
             
     },
     {
         "id": 5,
-        "navn": "DJ Kassett",
+        "navn": "Arist 5",
         "tid": "22:20 - 01:00",
         "dato": "3. juli",
         "hvor": "Torsdag i teltet",
@@ -78,14 +78,14 @@
         "bakgrunnsFarge": "torsdagTeltet",
         "startTid": "2025-07-03T22:20:00+02:00",
         "stoppTid": "2025-07-04T01:00:00+02:00",
-        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/683195471bd80c3b08c91af5_DJ-Kassett.jpg",
+        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/685c1a3e0427c79681ff90f7_PreVisning.jpg",
         "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6831956f3d9abd79ab34451d_Header-DJ-Kasset.png",
         "beskrivelse": "DJ Kassett er Norges eneste DJ som kun spiller fra kassett­spillere, en sjeldenhet også globalt. Han startet allerede i 2016, og har bygget opp et retrospektivt konsept som kombinerer nostalgisk sjarm med både energi og inkludering. Med en imponerende samling på over 10 000 kassetter, fordelt på kassettspillere, boomboxer og walkman’s, leverer han dansbare klassikere fra 70‑, 80‑, 90‑ og 2000‑tallet ."
             
     },
     {
         "id": 6,
-        "navn": "Violet road",
+        "navn": "Arist 6",
         "tid": "18:00 - 19:00",
         "dato": "4. juli",
         "hvor": "Fredag",
@@ -95,13 +95,13 @@
         "bakgrunnsFarge": "darkGradiant",
         "startTid": "2025-07-04T18:00:00+02:00",
         "stoppTid": "2025-07-04T19:00:00+02:00",
-        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801217adf6e512b904a4cb5_Violet-Road.jpg",
+        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/685c1a3e0427c79681ff90f7_PreVisning.jpg",
         "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/68015491179cb73dc14c453b_Header-Violet-Road.png",
         "beskrivelse": "Violet Road er et folkerockband fra Tromsø, bestående av flere brødre og en barndomsvenn. De er kjent for sine flerstemte harmonier, fengende melodier og varme uttrykk. Med låter som kombinerer akustiske instrumenter, glade rytmer og sterke refrenger, har de trollbundet publikum på festivaler over hele landet. Violet Road gir en følelse av samhold og glede, og leverer alltid en inkluderende konsertopplevelse."
     },
     {
         "id": 7,
-        "navn": "Synne Vo",
+        "navn": "Arist 2",
         "tid": "19:30 - 20:30",
         "dato": "4. juli",
         "hvor": "Fredag",
@@ -111,13 +111,13 @@
         "bakgrunnsFarge": "darkGradiant",
         "startTid": "2025-07-04T19:30:00+02:00",
         "stoppTid": "2025-07-04T20:30:00+02:00",
-        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801217aa26fa085dfedace1_Synne-Vo.jpg",
+        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/685c1a3e0427c79681ff90f7_PreVisning.jpg",
         "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801549135d1994de8d9d41b_Header-Synne-Vo.png",
         "beskrivelse": "Synne Vo er en spennende artist fra Norge som kombinerer moderne pop med elementer av nordisk folkemusikk. Med sine ærlige og nærværende tekster tar hun lytterne med på en personlig reise gjennom kjærlighet, oppvekst og identitet. Hun har blitt omtalt som en av de mest lovende nye stemmene i norsk pop, og hennes varme vokal og melodiske låter har allerede vunnet mange hjerter."
     },
     {
         "id": 8,
-        "navn": "Di Derre",
+        "navn": "Arist 7",
         "tid": "21:05 - 22:20",
         "dato": "4. juli",
         "hvor": "Fredag",
@@ -127,7 +127,7 @@
         "bakgrunnsFarge": "darkGradiant",
         "startTid": "2025-07-04T21:05:00+02:00",
         "stoppTid": "2025-07-04T22:20:00+02:00",
-        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801217ae6265dc1aa840b01_Di-Derre.jpg",
+        "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/685c1a3e0427c79681ff90f7_PreVisning.jpg",
         "headerURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/68015490e950a220177dfd30_Header-Diderre.png",
         "beskrivelse": "Di Derre er et norsk poprockband som ble startet på 1990-tallet, med forfatteren Jo Nesbø som frontfigur. Bandet er kjent for sine lune, hverdagslige tekster som forteller små historier fra norsk liv og kjærlighet. Med sanger som «Jenter» og «Rumba med Gunn» har de levert udødelige klassikere som får både unge og gamle til å synge med. Di Derre byr på nostalgi, humor og god stemning på scenen."
     },
