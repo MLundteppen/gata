@@ -13,7 +13,7 @@
     "billettURL": "https://www.ticketmaster.no/event/familiegata25-billetter/1916950565",
     "stoppTid": "2025-07-03T19:00:00+02:00",
     "kategori": "Torsdag",
-    "solgte": 100,
+    "solgte": 900,
     "totalt": 1000
   },
   {
@@ -30,7 +30,7 @@
     "billettURL": "https://www.ticketmaster.no/event/torsdag-i-teltet-m-hanne-boel-billetter/1896642273",
     "stoppTid": "2025-07-04T01:00:00+02:00",
     "kategori": "Torsdag",
-    "solgte": 100,
+    "solgte": 500,
     "totalt": 1000
   
   },
