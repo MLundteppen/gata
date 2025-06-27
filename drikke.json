@@ -24,18 +24,6 @@
     "aldersgrense": "18+"
   },
   {
-    "id": 3,
-    "kategori": "Øl",
-    "drikke": "1 meter øl",
-    "innhold": "Kommer",
-    "pris": "700,-",
-    "utsolgt": false,
-    "hvor": "Baren",
-    "tekstFarge": "hvit",
-    "bakgrunnsFarge": "darkGradiant",
-    "aldersgrense": "18+"
-  },
-  {
     "id": 4,
     "kategori": "Cider / rusbrus",
     "drikke": "Breezer",
@@ -72,18 +60,6 @@
     "aldersgrense": "18+"
   },
   {
-    "id": 7,
-    "kategori": "Vin / bobler",
-    "drikke": "Reisling flaske",
-    "innhold": "0,75l",
-    "pris": "500,-",
-    "utsolgt": false,
-    "hvor": "Baren",
-    "tekstFarge": "hvit",
-    "bakgrunnsFarge": "darkGradiant",
-    "aldersgrense": "18+"
-  },
-  {
     "id": 8,
     "kategori": "Vin / bobler",
     "drikke": "Prosecco glass",
@@ -96,20 +72,8 @@
     "aldersgrense": "18+"
   },
   {
-    "id": 9,
-    "kategori": "Vin / bobler",
-    "drikke": "Prosecco flaske",
-    "innhold": "0,75l",
-    "pris": "500,-",
-    "utsolgt": false,
-    "hvor": "Baren",
-    "tekstFarge": "hvit",
-    "bakgrunnsFarge": "darkGradiant",
-    "aldersgrense": "18+"
-  },
-  {
     "id": 11,
-    "kategori": "Alkoholfritt",
+    "kategori": "Øl",
     "drikke": "Alkoholfri",
     "innhold": " ",
     "pris": "75,-",
@@ -253,7 +217,7 @@
   },
   {
     "id": 24,
-    "kategori": "Alkoholfritt",
+    "kategori": "Øl",
     "drikke": "Alkoholfri",
     "innhold": " ",
     "pris": "75,-",
