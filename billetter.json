@@ -13,8 +13,8 @@
     "billettURL": "https://www.ticketmaster.no/event/familiegata25-billetter/1916950565",
     "stoppTid": "2025-07-03T19:00:00+02:00",
     "kategori": "Torsdag",
-    "solgte": 900,
-    "totalt": 1000
+    "solgte": 66,
+    "totalt": 100
   },
   {
     "id": 2,
@@ -30,8 +30,8 @@
     "billettURL": "https://www.ticketmaster.no/event/torsdag-i-teltet-m-hanne-boel-billetter/1896642273",
     "stoppTid": "2025-07-04T01:00:00+02:00",
     "kategori": "Torsdag",
-    "solgte": 500,
-    "totalt": 1000
+    "solgte": 40,
+    "totalt": 100
   
   },
   {
@@ -48,8 +48,8 @@
     "billettURL": "https://www.ticketmaster.no/event/helgepass-m-torsdag-i-teltet-20-ar-billetter/1993802697",
     "stoppTid": "2025-07-04T01:00:00+02:00",
     "kategori": "Torsdag",
-    "solgte": 100,
-    "totalt": 1000
+    "solgte": 40,
+    "totalt": 100
   },
   {
     "id": 4,
@@ -65,8 +65,8 @@
     "billettURL": "https://www.ticketmaster.no/event/dagspass-fredag-billetter/799229889",
     "stoppTid": "2025-07-05T02:00:00+02:00",
     "kategori": "Fredag",
-    "solgte": 100,
-    "totalt": 1000
+    "solgte": 81,
+    "totalt": 100
   },
   {
     "id": 5,
@@ -82,8 +82,8 @@
     "billettURL": "https://www.ticketmaster.no/event/dagpass-fredag-20ar-billetter/1730966450",
     "stoppTid": "2025-07-05T02:00:00+02:00",
     "kategori": "Fredag",
-    "solgte": 100,
-    "totalt": 1000
+    "solgte": 71,
+    "totalt": 100
   },
   {
     "id": 6,
@@ -99,8 +99,8 @@
     "billettURL": "https://www.ticketmaster.no/event/dagspass-lordag-billetter/1175015610",
     "stoppTid": "2025-07-06T01:00:00+02:00",
     "kategori": "Lørdag",
-    "solgte": 100,
-    "totalt": 1000
+    "solgte": 78,
+    "totalt": 100
   },
   {
     "id": 7,
@@ -116,8 +116,8 @@
     "billettURL": "https://www.ticketmaster.no/event/dagspass-lordag-20ar-billetter/1145583114",
     "stoppTid": "2025-07-06T01:00:00+02:00",
     "kategori": "Lørdag",
-    "solgte": 100,
-    "totalt": 1000
+    "solgte": 77,
+    "totalt": 100
   },
   {
     "id": 8,
@@ -133,8 +133,8 @@
     "billettURL": "https://www.ticketmaster.no/event/gata25-helgepass-18ar-billetter/1525740891",
     "stoppTid": "2025-07-05T00:00:00+02:00",
     "kategori": "Helgepass",
-    "solgte": 100,
-    "totalt": 1000
+    "solgte": 66,
+    "totalt": 100
   },
   {
     "id": 9,
@@ -150,8 +150,8 @@
     "billettURL": "https://www.ticketmaster.no/event/gata25-helgepass-20-ar-billetter/378420034",
     "stoppTid": "2025-07-05T00:00:00+02:00",
     "kategori": "Helgepass",
-    "solgte": 100,
-    "totalt": 1000
+    "solgte": 59,
+    "totalt": 100
   },
   {
     "id": 10,
@@ -167,7 +167,7 @@
     "billettURL": "https://www.ticketmaster.no/event/festival-camp-billetter/936119362",
     "stoppTid": "2025-07-06T16:00:00+02:00",
     "kategori": "Festival camp",
-    "solgte": 100,
-    "totalt": 1000
+    "solgte": 75,
+    "totalt": 100
   }
 ]
