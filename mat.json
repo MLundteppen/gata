@@ -211,8 +211,8 @@
     "pris": "210,-",
     "hvem": "Salten Event",
     "utsolgt": false,
-    "tekstFarge": "bodoGatematTekst",
-    "bakgrunnsFarge": "hvit",
+    "tekstFarge": "hvit",
+    "bakgrunnsFarge": "bodoGatematTekst",
     "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6867ee3dda7558de48a327c8_Saltenevent.jpg"
   },
   {
@@ -223,8 +223,8 @@
     "pris": "210,-",
     "hvem": "Salten Event",
     "utsolgt": false,
-    "tekstFarge": "bodoGatematTekst",
-    "bakgrunnsFarge": "hvit",
+    "tekstFarge": "hvit",
+    "bakgrunnsFarge": "bodoGatematTekst",
     "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6867ee3dda7558de48a327c8_Saltenevent.jpg"
   },
   {
@@ -247,8 +247,8 @@
     "pris": "30,-",
     "hvem": "Salten Event",
     "utsolgt": false,
-    "tekstFarge": "bodoGatematTekst",
-    "bakgrunnsFarge": "hvit",
+    "tekstFarge": "hvit",
+    "bakgrunnsFarge": "bodoGatematTekst",
     "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6867ee3dda7558de48a327c8_Saltenevent.jpg"
   },
   {
