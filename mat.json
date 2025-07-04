@@ -205,6 +205,54 @@
   },
   {
     "id": 19,
+    "kategori": "BABB",
+    "navn": "Rullekebab med kylling",
+    "innhold": "",
+    "pris": "210,-",
+    "hvem": "Salten Event",
+    "utsolgt": false,
+    "tekstFarge": ".white",
+    "bakgrunnsFarge": ".black",
+    "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6867ee3dda7558de48a327c8_Saltenevent.jpg"
+  },
+  {
+    "id": 20,
+    "kategori": "BABB",
+    "navn": "Glutenfri rullekebab med kylling",
+    "innhold": "",
+    "pris": "210,-",
+    "hvem": "Salten Event",
+    "utsolgt": false,
+    "tekstFarge": ".white",
+    "bakgrunnsFarge": ".black",
+    "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6867ee3dda7558de48a327c8_Saltenevent.jpg"
+  },
+  {
+    "id": 21,
+    "kategori": "BABB",
+    "navn": "Vegetarisk rullekebab med kylling",
+    "innhold": "",
+    "pris": "210,-",
+    "hvem": "Salten Event",
+    "utsolgt": false,
+    "tekstFarge": ".white",
+    "bakgrunnsFarge": ".black",
+    "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6867ee3dda7558de48a327c8_Saltenevent.jpg"
+  },
+  {
+    "id": 22,
+    "kategori": "Drikke",
+    "navn": "Brus",
+    "innhold": "",
+    "pris": "30,-",
+    "hvem": "Salten Event",
+    "utsolgt": false,
+    "tekstFarge": ".white",
+    "bakgrunnsFarge": ".black",
+    "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6867ee3dda7558de48a327c8_Saltenevent.jpg"
+  },
+  {
+    "id": 23,
     "kategori": "Gata's snacks",
     "navn": "Popcorn",
     "innhold": "",
@@ -216,7 +264,7 @@
     "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/684eecc7d2a12ade32bc7eb7_GataFestivalen-Logo-512.jpg"
   },
   {
-    "id": 20,
+    "id": 24,
     "kategori": "Gata's snacks",
     "navn": "Baconchips",
     "innhold": "",
@@ -228,7 +276,7 @@
     "imageURL": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/684eecc7d2a12ade32bc7eb7_GataFestivalen-Logo-512.jpg"
   },
   {
-    "id": 21,
+    "id": 25,
     "kategori": "Gata's snacks",
     "navn": "Peanøtter/chillinøtter",
     "innhold": "",
