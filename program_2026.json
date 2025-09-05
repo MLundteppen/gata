@@ -1,19 +1,19 @@
 [
     {
         "id": 1,
-        "navn": "DJ Sash!",
-        "tid": "00:00 - 01:00",
-        "dato": "5. juli",
-        "hvor": "Lørdag",
-        "font": "Montserrat-Bold",
+        "navn": "Emma",
+        "tid":	"17:00 - 17:45",
+        "dato":	"3. juli",
+        "hvor": "Familiegata",
+        "font":	"Montserrat-Bold",
         "fontSize": 19,
-        "tekstFarge": "hvit",
-        "bakgrunnsFarge": "darkGradiant",
-        "startTid": "2025-07-06T00:00:00+02:00",
-        "stoppTid": "2025-07-06T01:00:00+02:00",
-        "imageUrl": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801217abacfafa4c864e7c1_Sash.jpg",
-        "headerUrl": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/68015490986a9d0cfa8524a1_Header-Dj-Sash.png",
-        "beskrivelse": "DJ Sash! er en internasjonal DJ og produsent fra Tyskland som fikk sitt gjennombrudd på 90-tallet med massive hits som «Encore Une Fois», «Ecuador» og «Stay». Han er en pioner innen eurodance-sjangeren, og hans musikk har toppet hitlistene i mange land. Med energiske beats og ikoniske melodilinjer er DJ Sash! et sikkert kort for en feststemt dansegulvopplevelse som tar publikum tilbake til den elektroniske gullalderen."
+        "tekstFarge": "familieGataText",
+        "bakgrunnsFarge": "familieGata",
+        "startTid": "2025-07-03T17:00:00+02:00",
+        "stoppTid": "2025-07-03T17:45:00+02:00",
+        "imageUrl": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6853031ea49c5e9b2ea3a5a0_Emma.jpg",
+        "headerUrl": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6853038b835f3692355e39ae_Header-Emma.png",
+        "beskrivelse": "Emma Gunnarsen er en talentfull norsk popsanger som har vokst opp i rampelyset, inspirert av sine musikalske søsken. Med en kraftfull stemme og en naturlig scenetilstedeværelse har hun raskt gjort seg bemerket på den norske musikkscenen. Hun lager fengende poplåter som appellerer til både unge og voksne, og leverer alltid energiske og sjarmerende opptredener."
     },
     
     {
