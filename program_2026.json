@@ -259,5 +259,21 @@
         "imageUrl": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801217a727672331c7f700b_TooFarGone.jpg",
         "headerUrl": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/680154902c4f5f6a8df2c14d_Header-TooFarGone.png",
         "beskrivelse": "Too Far Gone er et band fra Trøndelag som har spesialisert seg på en blanding av country, rock og folkemusikk. Med fengende melodier og tekster som omhandler både kjærlighet, fest og trøndersk livsstil, har de blitt et kjært navn på festivaler og bygdefester. Låter som «Zetor’n» og «My Angel» er eksempler på deres evne til å lage låter som treffer både hjerte og dansefot."
-    } 
+    },
+    {
+        "id": 17,
+        "navn": "DJ Sash!",
+        "tid": "00:00 - 01:00",
+        "dato": "5. juli",
+        "hvor": "Lørdag",
+        "font": "Montserrat-Bold",
+        "fontSize": 19,
+        "tekstFarge": "hvit",
+        "bakgrunnsFarge": "darkGradiant",
+        "startTid": "2025-07-06T00:00:00+02:00",
+        "stoppTid": "2025-07-06T01:00:00+02:00",
+        "imageUrl": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/6801217abacfafa4c864e7c1_Sash.jpg",
+        "headerUrl": "https://cdn.prod.website-files.com/67fa882635fadc68fbf408fe/68015490986a9d0cfa8524a1_Header-Dj-Sash.png",
+        "beskrivelse": "DJ Sash! er en internasjonal DJ og produsent fra Tyskland som fikk sitt gjennombrudd på 90-tallet med massive hits som «Encore Une Fois», «Ecuador» og «Stay». Han er en pioner innen eurodance-sjangeren, og hans musikk har toppet hitlistene i mange land. Med energiske beats og ikoniske melodilinjer er DJ Sash! et sikkert kort for en feststemt dansegulvopplevelse som tar publikum tilbake til den elektroniske gullalderen."
+    }
 ]
