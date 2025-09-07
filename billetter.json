@@ -11,7 +11,7 @@
     "tekstFarge": "familieGataText",
     "bakgrunnsFarge": "familieGata",
     "billettURL": "https://www.ticketmaster.no/event/familiegata25-billetter/1916950565",
-    "stoppTid": "2025-07-03T19:00:00+02:00",
+    "stoppTid": "2026-07-03T19:00:00+02:00",
     "kategori": "Torsdag",
     "solgte": 54,
     "totalt": 100
@@ -28,7 +28,7 @@
     "tekstFarge": "torsdagTeltetText",
     "bakgrunnsFarge": "torsdagTeltet",
     "billettURL": "https://www.ticketmaster.no/event/torsdag-i-teltet-m-hanne-boel-billetter/1896642273",
-    "stoppTid": "2025-07-04T01:00:00+02:00",
+    "stoppTid": "2026-07-04T01:00:00+02:00",
     "kategori": "Torsdag",
     "solgte": 67,
     "totalt": 100
@@ -46,7 +46,7 @@
     "tekstFarge": "torsdagTeltetText",
     "bakgrunnsFarge": "torsdagTeltet",
     "billettURL": "https://www.ticketmaster.no/event/helgepass-m-torsdag-i-teltet-20-ar-billetter/1993802697",
-    "stoppTid": "2025-07-04T01:00:00+02:00",
+    "stoppTid": "2026-07-04T01:00:00+02:00",
     "kategori": "Torsdag",
     "solgte": 25,
     "totalt": 100
@@ -63,7 +63,7 @@
     "tekstFarge": "hvit",
     "bakgrunnsFarge": "darkGradiant",
     "billettURL": "https://www.ticketmaster.no/event/dagspass-fredag-billetter/799229889",
-    "stoppTid": "2025-07-05T02:00:00+02:00",
+    "stoppTid": "2026-07-05T02:00:00+02:00",
     "kategori": "Fredag",
     "solgte": 30,
     "totalt": 100
