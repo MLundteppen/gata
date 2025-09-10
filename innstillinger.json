@@ -1,17 +1,17 @@
 [
   {
-    id: 1,
-    tittel: "programDrop",
-    status: true,
+    "id": 1,
+    "tittel": "programDrop",
+    "status": true,
   },
   {
-    id: 2,
-    tittel: "billettDrop",
-    status: true,
+    "id": 2,
+    "tittel": "billettDrop",
+    "status": true,
   },
   {
-    id: 3,
-    tittel: "menyDrop",
-    status true,
+    "id": 3,
+    "tittel": "menyDrop",
+    "status": true,
   }
 ]
