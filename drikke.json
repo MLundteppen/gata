@@ -7,7 +7,7 @@
     "pris": "125,-",
     "utsolgt": false,
     "hvor": "Baren",
-    "tekstFarge": "#ffffff",
+    "tekstFarge": "hvit",
     "bakgrunnsFarge": "#0056a8",
     "aldersgrense": "18+"
   },
@@ -19,7 +19,7 @@
     "pris": "135,-",
     "utsolgt": false,
     "hvor": "Baren",
-    "tekstFarge": "#ffffff",
+    "tekstFarge": "hvit",
     "bakgrunnsFarge": "#0056a8",
     "aldersgrense": "18+"
   },
@@ -31,7 +31,7 @@
     "pris": "125,-",
     "utsolgt": false,
     "hvor": "Baren",
-    "tekstFarge": "#ffffff",
+    "tekstFarge": "hvit",
     "bakgrunnsFarge": "#0056a8",
     "aldersgrense": "18+"
   },
@@ -43,7 +43,7 @@
     "pris": "125,-",
     "utsolgt": false,
     "hvor": "Baren",
-    "tekstFarge": "#ffffff",
+    "tekstFarge": "hvit",
     "bakgrunnsFarge": "#0056a8",
     "aldersgrense": "18+"
   },
@@ -55,7 +55,7 @@
     "pris": "120,-",
     "utsolgt": false,
     "hvor": "Baren",
-    "tekstFarge": "#ffffff",
+    "tekstFarge": "hvit",
     "bakgrunnsFarge": "#0056a8",
     "aldersgrense": "18+"
   },
@@ -67,7 +67,7 @@
     "pris": "105,-",
     "utsolgt": false,
     "hvor": "Baren",
-    "tekstFarge": "#ffffff",
+    "tekstFarge": "hvit",
     "bakgrunnsFarge": "#0056a8",
     "aldersgrense": "18+"
   },
@@ -79,7 +79,7 @@
     "pris": "75,-",
     "utsolgt": false,
     "hvor": "Baren",
-    "tekstFarge": "#ffffff",
+    "tekstFarge": "hvit",
     "bakgrunnsFarge": "#0056a8",
     "aldersgrense": " "
   },
@@ -91,7 +91,7 @@
     "pris": "50,-",
     "utsolgt": false,
     "hvor": "Baren",
-    "tekstFarge": "#ffffff",
+    "tekstFarge": "hvit",
     "bakgrunnsFarge": "#0056a8",
     "aldersgrense": " "
   },
@@ -103,7 +103,7 @@
     "pris": "40,-",
     "utsolgt": false,
     "hvor": "Baren",
-    "tekstFarge": "#ffffff",
+    "tekstFarge": "hvit",
     "bakgrunnsFarge": "#0056a8",
     "aldersgrense": " "
   },
@@ -115,7 +115,7 @@
     "pris": "125,-",
     "utsolgt": false,
     "hvor": "Teltbaren",
-    "tekstFarge": "#ffffff",
+    "tekstFarge": "hvit",
     "bakgrunnsFarge": "#0056a8",
     "aldersgrense": "18+"
   },
@@ -127,7 +127,7 @@
     "pris": "135,-",
     "utsolgt": false,
     "hvor": "Teltbaren",
-    "tekstFarge": "#ffffff",
+    "tekstFarge": "hvit",
     "bakgrunnsFarge": "#0056a8",
     "aldersgrense": "18+"
   },
@@ -139,7 +139,7 @@
     "pris": "700,-",
     "utsolgt": false,
     "hvor": "Teltbaren",
-    "tekstFarge": "#ffffff",
+    "tekstFarge": "hvit",
     "bakgrunnsFarge": "#0056a8",
     "aldersgrense": "18+"
   },
@@ -151,7 +151,7 @@
     "pris": "125,-",
     "utsolgt": false,
     "hvor": "Teltbaren",
-    "tekstFarge": "#ffffff",
+    "tekstFarge": "hvit",
     "bakgrunnsFarge": "#0056a8",
     "aldersgrense": "18+"
   },
@@ -163,7 +163,7 @@
     "pris": "125,-",
     "utsolgt": false,
     "hvor": "Teltbaren",
-    "tekstFarge": "#ffffff",
+    "tekstFarge": "hvit",
     "bakgrunnsFarge": "#0056a8",
     "aldersgrense": "18+"
   },
@@ -175,7 +175,7 @@
     "pris": "120,-",
     "utsolgt": false,
     "hvor": "Teltbaren",
-    "tekstFarge": "#ffffff",
+    "tekstFarge": "hvit",
     "bakgrunnsFarge": "#0056a8",
     "aldersgrense": "18+"
   },
@@ -187,7 +187,7 @@
     "pris": "500,-",
     "utsolgt": false,
     "hvor": "Teltbaren",
-    "tekstFarge": "#ffffff",
+    "tekstFarge": "hvit",
     "bakgrunnsFarge": "#0056a8",
     "aldersgrense": "18+"
   },
@@ -199,7 +199,7 @@
     "pris": "105,-",
     "utsolgt": false,
     "hvor": "Teltbaren",
-    "tekstFarge": "#ffffff",
+    "tekstFarge": "hvit",
     "bakgrunnsFarge": "#0056a8",
     "aldersgrense": "18+"
   },
@@ -211,7 +211,7 @@
     "pris": "500,-",
     "utsolgt": false,
     "hvor": "Teltbaren",
-    "tekstFarge": "#ffffff",
+    "tekstFarge": "hvit",
     "bakgrunnsFarge": "#0056a8",
     "aldersgrense": "18+"
   },
@@ -223,7 +223,7 @@
     "pris": "75,-",
     "utsolgt": false,
     "hvor": "Teltbaren",
-    "tekstFarge": "#ffffff",
+    "tekstFarge": "hvit",
     "bakgrunnsFarge": "#0056a8",
     "aldersgrense": " "
   },
@@ -235,7 +235,7 @@
     "pris": "50,-",
     "utsolgt": false,
     "hvor": "Teltbaren",
-    "tekstFarge": "#ffffff",
+    "tekstFarge": "hvit",
     "bakgrunnsFarge": "#0056a8",
     "aldersgrense": " "
   },
@@ -247,7 +247,7 @@
     "pris": "40,-",
     "utsolgt": false,
     "hvor": "Teltbaren",
-    "tekstFarge": "#ffffff",
+    "tekstFarge": "hvit",
     "bakgrunnsFarge": "#0056a8",
     "aldersgrense": " "
   },
@@ -259,7 +259,7 @@
     "pris": "150,-",
     "utsolgt": false,
     "hvor": "Teltbaren",
-    "tekstFarge": "#ffffff",
+    "tekstFarge": "hvit",
     "bakgrunnsFarge": "#0056a8",
     "aldersgrense": "20+"
   },
@@ -271,7 +271,7 @@
     "pris": "150,-",
     "utsolgt": false,
     "hvor": "Teltbaren",
-    "tekstFarge": "#ffffff",
+    "tekstFarge": "hvit",
     "bakgrunnsFarge": "#0056a8",
     "aldersgrense": "20+"
   },
@@ -283,7 +283,7 @@
     "pris": "150,-",
     "utsolgt": false,
     "hvor": "Teltbaren",
-    "tekstFarge": "#ffffff",
+    "tekstFarge": "hvit",
     "bakgrunnsFarge": "#0056a8",
     "aldersgrense": "20+"
   },
@@ -295,7 +295,7 @@
     "pris": "150,-",
     "utsolgt": false,
     "hvor": "Teltbaren",
-    "tekstFarge": "#ffffff",
+    "tekstFarge": "hvit",
     "bakgrunnsFarge": "#0056a8",
     "aldersgrense": "20+"
   },
@@ -307,7 +307,7 @@
     "pris": "150,-",
     "utsolgt": false,
     "hvor": "Teltbaren",
-    "tekstFarge": "#ffffff",
+    "tekstFarge": "hvit",
     "bakgrunnsFarge": "#0056a8",
     "aldersgrense": "20+"
   },
@@ -319,7 +319,7 @@
     "pris": "100,-",
     "utsolgt": false,
     "hvor": "Teltbaren",
-    "tekstFarge": "#ffffff",
+    "tekstFarge": "hvit",
     "bakgrunnsFarge": "#0056a8",
     "aldersgrense": ""
   },
@@ -331,7 +331,7 @@
     "pris": "100,-",
     "utsolgt": false,
     "hvor": "Teltbaren",
-    "tekstFarge": "#ffffff",
+    "tekstFarge": "hvit",
     "bakgrunnsFarge": "#0056a8",
     "aldersgrense": "20+"
   },
@@ -343,7 +343,7 @@
     "pris": "100,-",
     "utsolgt": false,
     "hvor": "Teltbaren",
-    "tekstFarge": "#ffffff",
+    "tekstFarge": "hvit",
     "bakgrunnsFarge": "#0056a8",
     "aldersgrense": "20+"
   },
@@ -355,7 +355,7 @@
     "pris": "100,-",
     "utsolgt": false,
     "hvor": "Teltbaren",
-    "tekstFarge": "#ffffff",
+    "tekstFarge": "hvit",
     "bakgrunnsFarge": "#0056a8",
     "aldersgrense": "20+"
   },
@@ -367,7 +367,7 @@
     "pris": "100,-",
     "utsolgt": false,
     "hvor": "Teltbaren",
-    "tekstFarge": "#ffffff",
+    "tekstFarge": "hvit",
     "bakgrunnsFarge": "#0056a8",
     "aldersgrense": "20+"
   },
@@ -379,7 +379,7 @@
     "pris": "100,-",
     "utsolgt": false,
     "hvor": "Teltbaren",
-    "tekstFarge": "#ffffff",
+    "tekstFarge": "hvit",
     "bakgrunnsFarge": "#0056a8",
     "aldersgrense": "20+"
   },
@@ -391,8 +391,8 @@
     "pris": "65,-",
     "utsolgt": false,
     "hvor": "Teltbaren",
-    "tekstFarge": "#ffffff",
-    "bakgrunnsFarge": "#0056a8",
+    "tekstFarge": "hvit",
+    "bakgrunnsFarge": "darkGradiant",
     "aldersgrense": "20+"
   },
   {
@@ -403,8 +403,8 @@
     "pris": "310,-",
     "utsolgt": false,
     "hvor": "Teltbaren",
-    "tekstFarge": "#ffffff",
-    "bakgrunnsFarge": "#0056a8",
+    "tekstFarge": "hvit",
+    "bakgrunnsFarge": "darkGradiant",
     "aldersgrense": "20+"
   }
 ]
