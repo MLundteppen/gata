@@ -5,7 +5,7 @@
     "drikke": "Nordlands pils",
     "innhold": "0,5l",
     "pris": "125,-",
-    "utsolgt": false,
+    "utsolgt": true,
     "hvor": "Baren",
     "tekstFarge": "#ffffff",
     "bakgrunnsFarge": "#0056a8",
