@@ -2,16 +2,16 @@
   {
     "id": 1,
     "tittel": "programDrop",
-    "status": true,
+    "status": true
   },
   {
     "id": 2,
     "tittel": "billettDrop",
-    "status": true,
+    "status": true
   },
   {
     "id": 3,
     "tittel": "menyDrop",
-    "status": true,
+    "status": true
   }
 ]
