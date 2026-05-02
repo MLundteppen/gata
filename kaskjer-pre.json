@@ -1,3 +1,15 @@
-{
-  
-}
+[
+  {
+    "id": "1",
+    "title": "GOOD TIMES // OJ HANSSEN",
+    "img-url": "https://cdn.sanity.io/images/ilasalev/production/edbccbe152e535d530e6a9374d59b9611f498afb-1920x1080.jpg?w=1450&auto=format",
+    "oneliner": "Bli med når Mosjøens egen countrylegende OJ Hanssen tar scenen!",
+    "description": "Bli med når Mosjøens egen countrylegende OJ Hanssen tar scenen! Med en karriere som strekker seg fra Helgeland til Nashville, bringer han varm og autentisk countrymusikk rett hjem til oss. Velkommen til en uforglemmelig konsertopplevelse!",
+    "time-start": "2026-05-11T12:00:00.000Z",
+    "time-end": "2026-05-11T13:30:00.000Z",
+    "categori": "Konsert",
+    "organizer": "Fauske kino",
+    "coordinates": "67.25960199538697, 15.394496363768049",
+    "tickets": "https://checkout.ebillett.no/102/events/15510/purchase?kanal=dxf"
+  }
+]
