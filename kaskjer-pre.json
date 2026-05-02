@@ -9,6 +9,7 @@
     "time-end": "2026-05-11T13:30:00.000Z",
     "category": "Konsert",
     "organizer": "Fauske kino",
+    "age-limit": "Tillatt for alle",
     "latitude": 67.25960199538697,
     "longitude": 15.394496363768049,
     "tickets": "https://checkout.ebillett.no/102/events/15510/purchase?kanal=dxf"
