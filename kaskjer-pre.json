@@ -9,7 +9,6 @@
     "category": "Konsert",
     "organizer": "Fauske kino",
     "age-limit": "Tillatt for alle",
-    "free": true,
     "latitude": 67.25960199538697,
     "longitude": 15.394496363768049,
     "tickets": "https://checkout.ebillett.no/102/events/15510/purchase?kanal=dxf"
@@ -24,7 +23,6 @@
     "category": "Foredrag",
     "organizer": "Scandic Fauske",
     "age-limit": "18 års",
-    "free": false,
     "latitude": 67.25915370563371,
     "longitude": 15.397824021443403,
     "tickets": "https://checkout.ebillett.no/102/events/15512/purchase?kanal=dxf"
@@ -39,7 +37,6 @@
     "category": "Konsert",
     "organizer": "Fauske kino",
     "age-limit": "Tillat for alle",
-    "free": false,
     "latitude": 67.25960199538697,
     "longitude": 15.394496363768049,
     "tickets": "https://checkout.ebillett.no/102/events/15509/purchase?kanal=dxf"
@@ -54,7 +51,6 @@
     "category": "Konsert",
     "organizer": "Fauske kino",
     "age-limit": "Tillat for alle",
-    "free": false,
     "latitude": 67.25960199538697,
     "longitude": 15.394496363768049,
     "tickets": "https://checkout.ebillett.no/102/events/15511/purchase?kanal=dxf"
