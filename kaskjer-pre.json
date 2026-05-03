@@ -9,7 +9,7 @@
     "category": "Konsert",
     "organizer": "Fauske kino",
     "age-limit": "Tillatt for alle",
-    "free": false,
+    "free": true,
     "latitude": 67.25960199538697,
     "longitude": 15.394496363768049,
     "tickets": "https://checkout.ebillett.no/102/events/15510/purchase?kanal=dxf"
